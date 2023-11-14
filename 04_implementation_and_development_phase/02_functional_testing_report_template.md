@@ -20,37 +20,55 @@
 
 ### Unit Testing:
 - **Methodology:**
-    - Description of the unit testing approach and framework used.
+    - **Framework:** Utilize Python's `pytest` framework for writing and executing unit tests.
+    - **Test Driven Development (TDD):** Follow TDD practices where tests are written prior to writing the actual code.
+    - **Isolation:** Ensure unit tests are isolated, testing one component at a time.
 - **Test Cases and Coverage:**
-    - [Provide a comprehensive list of unit test cases, expected results, and coverage metrics]
+    - **API Endpoint Testing:** Write test cases for each API endpoint, testing for expected responses, error handling, and edge cases.
+    - **ML Model Testing:** Test machine learning models for accuracy, overfitting, and underfitting. Use libraries like `scikit-learn` for model testing.
+    - **AI Algorithm Testing:** Test AI algorithms for correctness, efficiency, and expected behavior under various scenarios.
 
 | Test Case Name | conditions       | Assertions       | Mocks            | Coverage Metrics |
 |----------------|------------------|------------------|------------------|------------------|
 | ...            | ...              | ...              | ...              | ...              |
 - **Results:**
-    - Summary of unit testing results, including pass/fail statistics.
+    - Utilize Continuous Integration (CI) tools to automatically run unit tests and report results.
+    - Monitor for high pass rates and address any failing tests promptly.
 - **Issues and Resolutions:**
-    - [Document any significant issues encountered during testing and their resolutions]
+    - Document any issues encountered during testing, including bugs in logic, performance issues, or integration problems, and track their resolution.
 
 ### User Acceptance Testing (UAT):
 - **UAT Plan:**
-    - Outline of the UAT plan, including objectives and criteria for success.
+    - **Objectives:** Define clear objectives focusing on end-user requirements and the usability of the API, ML, and AI components.
+    - **Success Criteria:** Establish criteria for successful UAT, such as specific user tasks being completed efficiently.
 - **UAT Procedures:**
-    - [Detail the UAT plan, participant selection, and the feedback mechanism]
+    - **Participant Selection:** Choose a diverse group of users, representative of the end-users.
+    - **Feedback Mechanism:** Implement a structured feedback mechanism to gather detailed user responses.
 - **User Testing Sessions:**
-    - Schedule and structure of user testing sessions.
+    - Schedule planning sessions and get some key users invloved in the structure and examples of user testing sessions.
+        - Try allow them to run and explain some of the application
+    - Conduct structured sessions where users interact with the system, focusing on real-world use cases.
 - **Feedback & Iterations:**
-    - Summary of user feedback and subsequent iterations.
+    - Analyze feedback for trends and common issues.
+    - Iterate on the API, ML models, and AI algorithms based on this feedback.
+    - Use the [Change Request Template](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/03_change_request_template.md) to manage these changes
 
 ### Load Testing:
 - **Load Testing Strategy:**
-    - Description of the load testing plan and tools used.
+    - **Tools:** Utilize `JMeter` for simulating user traffic to the API.
+    - **Scenarios:** Design scenarios that mimic real-world usage, including high traffic and peak usage times.
+        - Use `JMeter`'s CSV functionality to ensure that the tests are repeatable and scalable
 - **Performance Benchmarks:**
-    - [Describe the performance benchmarks, testing tools, and the results analysis process]
+   - Establish benchmarks for response times, throughput, and error rates.
+   - Use profiling tools like [scalene](https://github.com/plasma-umass/scalene) to identify bottlenecks in the code.
 - **Performance Metrics:**
-    - Specific performance metrics that were tested (e.g., response time, concurrency).
+    - Specific performance metrics that were tested:
+        - Response time under load
+        - Concurrency
+        - System stability
 - **Results & Optimization:**
-    - Summary of load testing results and any performance optimization carried out.
+    - Analyze test results to identify areas for performance optimization.
+    - Implement caching, query optimization, or other techniques to improve performance.
 
 ### Report Approval:
 - **Lead Developer:**
