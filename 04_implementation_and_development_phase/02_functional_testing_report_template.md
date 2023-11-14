@@ -256,14 +256,41 @@
                 - Always use type hints for function arguments and return types at the top level
                 - use the standary `typing` library for type hints
         - **Dynamic Application Security Testing (DAST):** Conducting tests on running applications to identify real-time security issues.
-            - [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) is a widely used tool for web security testing. It offers features like crawling, scanning, proxying, and more.
-            - **Quickstart with Burp:**
-                1. Download and install Burp Suite from the official website.
-                1. Open Burp Suite and go to the "Proxy" tab.
-                1. Configure your browser to use the Burp Proxy.
-                1. Browse the target website, and Burp will automatically start capturing HTTP requests.
-                1. Use the "Intruder" or "Repeater" features to manipulate requests and analyze responses.
-
+            > **_Remember, any penetration testing tool like `Burp Suite` and `OWASP ZAP` are powerful and should be used responsibly and legally. Always have explicit and documented permission to test a website before using a tool like ZAP for security testing._**
+            - [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) is a widely used tool for web security testing. It's popular among penetration testers and ethical hackers for its rich feature set and user-friendly interface.
+            - **Key Capabilities of Burp Suite Community Edition:**
+                - **Proxy Tool:** Allows interception, inspection, and modification of raw traffic passing between your browser and the web server.
+                - **Scanner:** Automated scanner (limited in the Community Edition) to identify vulnerabilities in web applications.
+                - **Intruder:** A powerful tool for carrying out customized attacks to find and exploit unusual vulnerabilities.
+                - **Repeater:** Modify and resend individual requests, and analyze the responses.
+                - **Sequencer:** Analyzes the quality of randomness in an application’s session tokens.
+                - **Comparer:** Compares application data like request/response pairs, highlighting the differences.
+                - **Extensibility:** Ability to extend functionality using the Burp Extender.
+            - **Quickstart with Burp Suite Community Edition:**
+                1. Download and install Burp Suite Community Edition from the official website.
+                1. Open Burp Suite and start a new project or open an existing one.
+                1. Go to the "Proxy" tab and ensure the proxy listener is active. You may adjust the interface and port settings as needed.
+                1. Configure your web browser to use Burp as its proxy. This typically involves setting the browser’s proxy server settings to the address and port where Burp’s Proxy listener is running.
+                1. Navigate to a website using your browser. Burp Suite will capture the traffic in the Proxy > HTTP History tab.
+                1. Use the "Intruder" feature to perform customized attacks or the "Repeater" to manually modify and resend requests.
+                1. Examine the responses and analyze them for potential security vulnerabilities.
+            - [OWASP ZAP](https://www.zaproxy.org/download/) is a powerful penetration testing tool for finding vulnerabilities in web applications. It is designed to be used by both those new to application security as well as professional penetration testers.
+                - **Key Capabilities of OWASP ZAP:**
+                    - **Automated Scanner:** Scans for vulnerabilities in web applications.
+                    - **Manual Testing:** Allows for manual testing of security vulnerabilities.
+                    - **Passive Scanning:** Passively scans traffic passing through the proxy.
+                    - **Spidering:** Crawls the target website to map out the structure and discover hidden files and folders.
+                    - **Active Scanning:** Actively probes the target website for vulnerabilities.
+                    - **AJAX Spider:** Specifically designed to crawl AJAX-heavy applications.
+                - **Quickstart with OWASP ZAP:**
+                    1. Download and install OWASP ZAP from the [official website](https://www.zaproxy.org/download/).
+                    1. Open ZAP. The tool may ask if you want to persist the session. Choose as per your requirement.
+                    1. To set up a proxy, go to 'Tools' > 'Options' > 'Local Proxy' and configure your local proxy settings.
+                    1. Configure your browser to use the ZAP Proxy. You can do this manually or use ZAP's option to generate a Root CA certificate for SSL support.
+                    1. Start your browser and navigate to the website you wish to test. ZAP will start capturing traffic between your browser and the target website.
+                    1. Use the ‘Spider’ feature to automatically crawl the website and identify URLs.
+                    1. Utilize the ‘Active Scan’ feature to perform an active scan on the crawled URLs for vulnerabilities.
+                    1. Analyze the results in ZAP's interface, where you will find detailed information about each vulnerability detected.
         - **Dependency Scanning:** Checking third-party libraries and dependencies for known vulnerabilities.
             - **[Snyk](https://docs.snyk.io/scan-using-snyk/supported-languages-and-frameworks/python)**
                 - Prerequisites
