@@ -120,5 +120,23 @@
 - [List the next steps following the approval of this phase]
 
 ### Approval:
-   - Defined criteria for sign-off
-   - Sign-off
+- **Architect:**
+   - **Name:** {{architect_name}}
+   - **Title:** {{architect_title}}
+   - **Date:** {{ now() }}
+   - **Signature:** _________________________
+- **Lead Developer:**
+   - **Name:** {{lead_developer_name}}
+   - **Title:** {{lead_developer_title}}
+   - **Date:** {{ now() }}
+   - **Signature:** _________________________
+- **Project Manager:**
+   - **Name:** {{project_manager_name}}
+   - **Title:** {{project_manager_title}}
+   - **Date:** {{ now() }}
+   - **Signature:** _________________________
+- **Client Representative:**
+   - **Name:** {{client_representative_name}}
+   - **Title:** {{client_representative_title}}
+   - **Date:** {{ now() }}
+   - **Signature:** _________________________

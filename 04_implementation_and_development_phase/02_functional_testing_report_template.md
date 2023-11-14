@@ -70,6 +70,9 @@
     - Analyze test results to identify areas for performance optimization.
     - Implement caching, query optimization, or other techniques to improve performance.
 
+### Next Steps:
+- Outline of actions following the functional testing phase (e.g., addressing any outstanding issues).
+
 ### Report Approval:
 - **Lead Developer:**
     - **Name:** {{lead_developer_name}}
@@ -91,6 +94,3 @@
     - **Title:** {{client_representative_title}}
     - **Date:** {{ now() }}
     - **Signature:** _________________________
-
-### Next Steps:
-- Outline of actions following the functional testing phase (e.g., addressing any outstanding issues).

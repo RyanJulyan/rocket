@@ -230,28 +230,23 @@ The 4+1 Architectural View Model is a framework for describing the architecture 
    - [Provide a roadmap for implementing the data specifications and integrating them into the development process.]
 
 ### Approvals:
-   - **Architect:**
-      - Name:
-      - Title:
-      - Signature:
-      - Date:
    - **Data Specialist / Steward:**
-      - Name:
-      - Title:
-      - Signature:
-      - Date:
+      - **Name:** {{data_specialist_name}} 
+      - **Title:** {{data_specialist_title}}
+      - **Date:** {{ now() }}
+      - **Signature:** _________________________
    - **UI/UX Designer:**
-      - Name:
-      - Title:
-      - Signature:
-      - Date:
+      - **Name:** {{ui_ux_designer_name}} 
+      - **Title:** {{ui_ux_designer_title}}
+      - **Date:** {{ now() }}
+      - **Signature:** _________________________
    - **Product Owner:**
-      - Name:
-      - Title:
-      - Signature:
-      - Date:
+      - **Name:** {{product_owner_name}} 
+      - **Title:** {{product_owner_title}}
+      - **Date:** {{ now() }}
+      - **Signature:** _________________________
    - **Client Representative / Sponsor:**
-      - Name:
-      - Title:
-      - Signature:
-      - Date:
+      - **Name:** {{client_representative_name}}
+      - **Title:** {{client_representative_title}}
+      - **Date:** {{ now() }}
+      - **Signature:** _________________________

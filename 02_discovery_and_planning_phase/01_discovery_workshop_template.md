@@ -89,7 +89,14 @@
    - Outline of next steps, responsibilities, and business and technical follow-ups
    - Feedback collection on the workshop, with an emphasis on the comprehensive approach
 
-### Workshop Coordinator's Signature:
-- Name: [Coordinator's Name]
-- Signature: _______________________
-- Date: [Insert date]
+### Approvals:
+- **Workshop Coordinator:**
+   - **Name:** {{workshop_coordinator_name}}
+   - **Title:** {{workshop_coordinator_title}}
+   - **Date:** {{ now() }}
+   - **Signature:** _________________________
+- **Client Representative:**
+   - **Name:** {{client_representative_name}}
+   - **Title:** {{client_representative_title}}
+   - **Date:** {{ now() }}
+   - **Signature:** _________________________
