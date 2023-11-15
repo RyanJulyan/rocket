@@ -81,6 +81,30 @@
 #### Comments and Feedback:
 - [Space for any comments or feedback from the reviewers and signatories]
 
+### User Access
+- **Access Control:** Role-based access control.
+   - [ ] OAuth
+      - [ ] Authorization Code
+      - [ ] Clietn Credentials
+      - [ ] Implicit Code
+      - [ ] Resource Owner Password
+   - [ ] JWT
+   - [ ] Access Key
+   - [ ] Username & Password
+   - [ ] SSO
+   - [ ] Use Sessions?
+- **Management:** 
+   - Who will manage user access.
+   
+| System                | Role          | Description                         | Access Control process              |
+|-----------------------|---------------|-------------------------------------|-------------------------------------|
+| ...                   | ...           | ...                                 | ...                                 |
+- **Feature Flags:** 
+   - [ ] Use `Feature Flags` to roll out new features incrementally.
+
+#### Comments and Feedback:
+- [Space for any comments or feedback from the reviewers and signatories]
+
 ### Development and Deployment Challenges:
 - **Development Complexity:** Assess the complexity of development, including time and resources required.
 - **Deployment Environment:** Consider the compatibility and readiness of the deployment environment.
