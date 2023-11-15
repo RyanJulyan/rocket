@@ -40,7 +40,7 @@ Ensure that you are using some sort of `Automation` within the pipeline. Conside
 - [ ] Scenario Testing (potential stopping point)
 - [ ] Deploy Test
 - [ ] Integration Test (potential stopping point)
-* Deploy Prod
+- [ ] Deploy Prod
 
 #### Post Deploy & Errors
 Just having a pipeline is not enough, there are some considerations/steps after the pipeline automation has completed. Consider including and asking the client about the following:
