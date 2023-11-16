@@ -1,16 +1,36 @@
 
+### DevSec Ops
+#### Process and Controls
+1. Plan and Develop
+    - [ ] Threat modelling
+    - [ ] IDE Security plugins
+    - [ ] Pre-commit hooks
+    - [ ] Secure coding standards
+    - [ ] Peer review
+1. Commit the Code
+    - [ ] Static Application Security Testing
+    - [ ] Security Unit and Functional Tests
+    - [ ] Dependency Management 
+    - [ ] Secure Pipelines
+1. Biuld and Test
+    - [ ] Dynamic application security testing
+    - [ ] Cloud configuration validation
+    - [ ] Infrastructure scanning
+    - [ ] Security acceptance testing
+1. Go to Production
+    - [ ] Security smoke tests
+    - [ ] Configuration checks
+    - [ ] Live Site Penetration testing
+1. Operate
+    - [ ] Continuous monitoring
+    - [ ] Threat intelligence
+    - [ ] Penetration testing
+    - [ ] Blameless postmortems
+
 ### CI/CD
-The following sequence serves as a guideline for setting up a CI/CD pipeline. This should be treated as a checklist to ensure that all necessary steps have been considered. The sequence can be customized per project, but if followed in the order below, it will provide a solid foundation:
+>The following sequence serves as a guideline for setting up a CI/CD pipeline. This should be treated as a checklist to ensure that all necessary steps have been considered. The sequence can be customized per project, but if followed in the order below, it will provide a solid foundation:
 
 **Automation tool of choice:** {{automation_tool_of_choice}}
-
-#### Potential other testing
-These may be included in the pipeline, however they may also be separate for cost, repeatability, scalability, ability to automate the steps or process. Consider including and asking the client about the following:
-- [ ] Regression Testing
-- [ ] Penetration Testing
-- [ ] Vulnerability Testing
-- [ ] Performance Testing
-- [ ] Performance Testing
 
 #### Local
 While many of these can happen in the local development environment such as in an IDE, ensuring these are enforced through the pre-commit can prevent issues. Consider including and asking the client about the following:
@@ -52,3 +72,11 @@ Just having a pipeline is not enough, there are some considerations/steps after 
     - [ ] Deployment Error Stages
     - [ ] Test Code Coverage
 - [ ] Monitoring
+
+#### Potential other testing
+These may be included in the pipeline, however they may also be separate for cost, repeatability, scalability, ability to automate the steps or process. Consider including and asking the client about the following:
+- [ ] Performance Testing
+- [ ] Regression Testing
+- [ ] Penetration Testing
+- [ ] Vulnerability Testing
+- [ ] Performance Testing
