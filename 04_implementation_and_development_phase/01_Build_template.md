@@ -32,7 +32,7 @@
 
 **Automation tool of choice:** {{automation_tool_of_choice}}
 
-#### Local
+#### Local and Pre-Commit
 While many of these can happen in the local development environment such as in an IDE, ensuring these are enforced through the pre-commit can prevent issues. Consider including and asking the client about the following:
 - [ ] Pre-commit
 - [ ] Lint & Formatting
