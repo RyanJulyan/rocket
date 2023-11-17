@@ -47,16 +47,15 @@
             - **Arrange**: Set up the objects and variables to be tested.
             - **Act**: Perform the action that you want to test.
             - **Assert**: Check that the action has the expected outcome.
-    
     - **Quickstart:** [JMeter Quickstart](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/quickstarts/pytest_quickstart.md)
-- **Test Cases and Coverage:**
+- [ ] **Test Cases and Coverage:**
     - **API Endpoint Testing:** Write test cases for each API endpoint, testing for expected responses, error handling, and edge cases.
     - **ML Model Testing:** Test machine learning models for accuracy, overfitting, and underfitting. Use libraries like `scikit-learn` for model testing.
     - **AI Algorithm Testing:** Test AI algorithms for correctness, efficiency, and expected behavior under various scenarios.
 
-| Test Case Name | Conditions       | Assertions       | Mocks            | Coverage Metrics |
-|----------------|------------------|------------------|------------------|------------------|
-| ...            | ...              | ...              | ...              | ...              |
+| Module Name | Test Case ID | Test Case Name | Conditions       | Assertions       | Mocks            | Coverage Metrics | Status   | Run Date   |
+|-------------|--------------|----------------|------------------|------------------|------------------|------------------|----------|------------|
+| ...         | UT-[...]     | ...            | ...              | ...              | ...              | ...              | ...      | YYYY/MM/DD |
 
 - **Results:**
     - Utilize Continuous Integration (CI) tools to automatically run unit tests and report results.
@@ -66,20 +65,30 @@
 
 
 ### User Acceptance Testing (UAT):
-- **UAT Plan:**
+- [ ] **UAT Plan:**
     - **Objectives:** Define clear objectives focusing on end-user requirements and the usability of the API, ML, and AI components.
     - **Success Criteria:** Establish criteria for successful UAT, such as specific user tasks being completed efficiently.
-- **UAT Procedures:**
-    - **Participant Selection:** Choose a diverse group of users, representative of the end-users.
+
+| Module Name | Test Case ID | Test Case Name | Conditions       | Expectations     | Results          | Status   | Test Date  |
+|-------------|--------------|----------------|------------------|------------------|------------------|----------|------------|
+| ...         | UAT-[...]    | ...            | ...              | ...              | ...              | ...      | YYYY/MM/DD |
+- [ ] **UAT Procedures:**
     - **Feedback Mechanism:** Implement a structured feedback mechanism to gather detailed user responses.
-- **User Testing Sessions:**
+        - [ ] Use the [UAT Feedback Template](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/05_uat_feedback_template.md) to manage the feedback
+    - **Participant Selection:** Choose a diverse group of users, representative of the end-users.
+
+| Client Name      | Current Role      | Test Case ID | Test Case Name |
+|------------------|-------------------|--------------|----------------|
+| {{client_name}}   | {{client_role}}  | UAT-[...]    | ...            |
+- [ ] **User Testing Sessions:**
     - Schedule planning sessions and get some key users invloved in the structure and examples of user testing sessions.
-        - Try allow them to run and explain some of the application
-    - Conduct structured sessions where users interact with the system, focusing on real-world use cases.
+        - Conduct structured sessions where users interact with the system, focusing on real-world use cases.
+            - Try allow the client users to run and explain some of the application
+        - [ ] Use the [UAT Agenda Template](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/04_uat_session_agenda_template.md) to manage the feedback
 - **Feedback & Iterations:**
-    - Analyze feedback for trends and common issues.
-    - Iterate on the API, ML models, and AI algorithms based on this feedback.
-    - Use the [Change Request Template](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/03_change_request_template.md) to manage these changes
+    - [ ] Analyze feedback for trends and common issues.
+    - [ ] Use the [Change Request Template](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/03_change_request_template.md) to manage these changes
+        - Iterate on the API, ML models, and AI algorithms based on this feedback.
 
 ### Load Testing:
 - [ ] **Load Testing Strategy:**
