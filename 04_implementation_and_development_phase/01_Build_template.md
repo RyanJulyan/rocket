@@ -1,4 +1,3 @@
-
 ### DevSec Ops
 #### Process and Controls
 1. Plan and Develop

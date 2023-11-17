@@ -10,11 +10,9 @@
 - Design Thinking and Prototyping
 - Roadmap and Prioritization
 
-#### Date, Time, and Venue: 
-- **Date**: [Insert date]
-- **Start Time**: [Insert time]
-- **End Time**: [Insert time]
-- **Venue**: [Insert venue]
+### Discovery Workshop Date: [Date]
+### Time: [Start Time] - [End Time]
+### Location: [Physical Location / Online Platform]
 
 #### Materials Provided:
 - [List any handouts, guides, or equipment that will be provided]
