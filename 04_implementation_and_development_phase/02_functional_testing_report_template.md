@@ -23,10 +23,10 @@
 
 ### Unit Testing:
 - **Methodology:**
-    - **Framework:** Utilize Python's [pytest](https://pypi.org/project/pytest/) framework for writing and executing unit tests.
-    - **Isolation:** Ensure unit tests are isolated, testing one component at a time.
-    - **Test Driven Development (TDD):** Follow TDD practices where tests are written prior to writing the actual code.
-        - **Peer Programming:**
+    - [ ] **Framework:** Utilize Python's [pytest](https://pypi.org/project/pytest/) framework for writing and executing unit tests.
+    - [ ] **Isolation:** Ensure unit tests are isolated, testing one component at a time.
+    - [ ] **Test Driven Development (TDD):** Follow TDD practices where tests are written prior to writing the actual code.
+        - [ ] **Peer Programming:**
             - _Use Hassan style_: One person writes the test, another person implements the code
 - **Standards:**
     - [ ] **File nameing conventions:**
@@ -57,11 +57,12 @@
 |-------------|--------------|----------------|------------------|------------------|------------------|------------------|----------|------------|
 | ...         | UT-[...]     | ...            | ...              | ...              | ...              | ...              | ...      | YYYY/MM/DD |
 
-- **Results:**
+- [ ] **Results:**
     - Utilize Continuous Integration (CI) tools to automatically run unit tests and report results.
     - Monitor for high pass rates and address any failing tests promptly.
-- **Issues and Resolutions:**
+- [ ] **Issues and Resolutions:**
     - Document any issues encountered during testing, including bugs in logic, performance issues, or integration problems, and track their resolution.
+    - [ ] Use the [Change Request Template](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/03_change_request_template.md) to manage these changes
 
 
 ### User Acceptance Testing (UAT):
@@ -105,7 +106,7 @@
         - For Function-Level Profiling use: [Python timeit](https://docs.python.org/3/library/timeit.html)
             - **Description:** A Python library for measuring the execution time of small bits of Python code. It has both a Command-Line Interface and a callable one.
             - **Quickstart:** [timeit Quickstart](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/quickstarts/timeit_quickstart.md)
-- **Performance Metrics:**
+- [ ] **Performance Metrics:**
     - Specific performance metrics that were tested:
         - Response time under load
         - Concurrency
@@ -192,7 +193,7 @@
     - **Purpose and Scope:**
         - Outlining the specific objectives and scope of security testing, focusing on identifying and mitigating security vulnerabilities within the API, ML, and AI components.
     - **Testing Methods:**
-        - **Static Application Security Testing (SAST):** Utilizing tools to analyze source code for potential security vulnerabilities.
+        - [ ] **Static Application Security Testing (SAST):** Utilizing tools to analyze source code for potential security vulnerabilities.
             - [ ] **Complexity Index:**
                 - Use [Flake8](https://pypi.org/project/flake8/) to measure the complexity of the code; aim for a score below 12
             - [ ] **Static Code Analysis:**
@@ -203,7 +204,7 @@
             - [ ] **Type Hinting:**
                 - Always use type hints for function arguments and return types at the top level
                 - use the standary `typing` library for type hints
-        - **Dynamic Application Security Testing (DAST):** Conducting tests on running applications to identify real-time security issues.
+        - [ ] **Dynamic Application Security Testing (DAST):** Conducting tests on running applications to identify real-time security issues.
             > **_Remember, any penetration testing tool like `Burp Suite` and `OWASP ZAP` are powerful and should be used responsibly and legally. Always have explicit and documented permission to test a website before using a tool like ZAP for security testing._**
             - [ ] [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) is a widely used tool for web security testing. It's popular among penetration testers and ethical hackers for its rich feature set and user-friendly interface.
             - **Key Capabilities of Burp Suite Community Edition:**
@@ -224,7 +225,7 @@
                     - **Active Scanning:** Actively probes the target website for vulnerabilities.
                     - **AJAX Spider:** Specifically designed to crawl AJAX-heavy applications.
                 - **Quickstart:** [OWASP ZAP Quickstart](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/quickstarts/owasp_zap_quickstart.md)
-        - **Dependency Scanning:** Checking third-party libraries and dependencies for known vulnerabilities.
+        - [ ] **Dependency Scanning:** Checking third-party libraries and dependencies for known vulnerabilities.
             - [ ] **[Snyk](https://docs.snyk.io/scan-using-snyk/supported-languages-and-frameworks/python)**
             - [ ] **[Safety](https://pypi.org/project/safety/)**
             - [ ] **[Bandit](https://pypi.org/project/bandit/)**
@@ -232,7 +233,7 @@
                 - `Snyk`, similar to `bandit` and `safety`, is designed to enhance the security of your code, but it offers a broader scope of features. Unlike `bandit`, which focuses on scanning your own code for known vulnerabilities, `Snyk` also checks the libraries your project depends on, much like `safety`. However, `Snyk` goes a step further by integrating directly into your development workflow, offering real-time alerts and automated fix suggestions for vulnerabilities. This makes it particularly effective in not only identifying security issues but also in helping resolve them efficiently. While it shares some functionalities with `safety` in terms of library scanning, its comprehensive approach and developer-friendly tools provide a more robust solution for continuous security monitoring and vulnerability management.
             - **Quickstart:** [Snyk, Safty and Banit Quickstart](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/quickstarts/dependency_scanning_quickstart.md)
 - **Security Test Cases and Standards Compliance:**
-    - **API Security Testing:**
+    - [ ] **API Security Testing:**
         - Testing for common vulnerabilities like SQL injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF).
         - Ensuring authentication, authorization, and data encryption mechanisms are robust.
         - **20 API Security Tips:**
@@ -256,11 +257,15 @@
             - [ ] **Secure Data Validation**: Validate input and output data.
             - [ ] **Security Testing**: Regularly assess for vulnerabilities.
             - [ ] **Secure Session Management**: Invalidate sessions securely.
-    - **ML/AI Model Security:**
+    - [ ] **ML/AI Model Security:**
         - Assessing the security of data pipelines and model serving infrastructure.
         - Evaluating the resilience of ML models against adversarial attacks.
     - **Compliance with Security Standards:**
-        - Ensuring adherence to relevant security standards such as OWASP Top 10, ISO/IEC 27001, and industry-specific regulations.
+        - Ensuring adherence to relevant security standards such as:
+            - [ ] OWASP Top 10
+            - [ ] ISO/IEC 27001
+            - [ ] Industry-specific regulations:
+                - [ ] list regulations [...]
 
 | Security Test Case       | Description             | Methodology        | Compliance Check      | Results              |
 |--------------------------|-------------------------|--------------------|-----------------------|----------------------|
