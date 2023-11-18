@@ -122,69 +122,69 @@
 
 ### Integration Testing and Data Pipelines
 - **Key considerations:** 
-    1. **Volume Testing:**
+    - [ ] **Volume Testing:**
         - **Goal:** Assess how the pipeline handles large volumes of data.
         - **Method:** Ingest a significantly large dataset into the pipeline and monitor its ability to process this data efficiently.
-    1. **Velocity Testing:**
+    - [ ] **Velocity Testing:**
         - **Goal:** Evaluate the pipeline's performance with rapid data ingestion.
         - **Method:** Gradually increase the data ingestion rate and observe the pipeline's throughput and latency.
-    1. **Variety Testing:**
+    - [ ] **Variety Testing:**
         - **Goal:** Ensure the pipeline can handle different types of data (structured, semi-structured, unstructured).
         - **Method:** Test with diverse datasets to assess the pipeline's flexibility and robustness.
-    1. **Concurrency Testing:**
+    - [ ] **Concurrency Testing:**
         - **Goal:** Determine the pipeline's performance under simultaneous operations.
         - **Method:** Run multiple data processing tasks concurrently and monitor for issues like resource contention or performance degradation.
 - **Tools and Techniques:**
-    1. **Performance Monitoring Tools:**
+    - [ ] **Performance Monitoring Tools:**
         - Utilize generic monitoring tools that can track metrics such as CPU usage, memory consumption, I/O operations, and throughput. Tools like Grafana, Prometheus, or even cloud-specific monitoring solutions can be employed.
-    1. **Custom Scripts and Simulators:**
+    - [ ] **Custom Scripts and Simulators:**
         - Develop scripts (e.g., in Python, Bash, or using cloud CLI tools) to automate the generation of test data and simulate operational loads.
-    1. **Data Generation Tools:**
+    - [ ] **Data Generation Tools:**
         - Use tools like Apache JMeter, TPC (Transaction Processing Performance Council) benchmarks, or custom data generators to create realistic test data and load scenarios.
-    1. **Integration with APIs:**
+    - [ ] **Integration with APIs:**
         - If your data pipeline interacts with external APIs, test these integrations under stress conditions using tools like Postman, Apache JMeter, or custom scripts.
 - **Steps for Integration Testing:**
-    1. **Environment Preparation:**
+    - [ ] **Environment Preparation:**
         - Set up a dedicated testing environment that mimics your production environment as closely as possible.
-    1. **Data Preparation:**
+    - [ ] **Data Preparation:**
         - Create or obtain test datasets that cover the necessary volume, velocity, and variety aspects.
-    1. **Monitoring and Alerting Setup:**
+    - [ ] **Monitoring and Alerting Setup:**
         - Configure comprehensive monitoring and alerting to track performance metrics and identify bottlenecks.
-    1. **Execution of Tests:**
+    - [ ] **Execution of Tests:**
         - Run your tests, gradually increasing the load and observing the system's behavior. This includes ingesting large data sets, executing complex queries, and running concurrent operations.
-    1. **Result Analysis:**
+    - [ ] **Result Analysis:**
         - Analyze the test results to identify performance bottlenecks, resource limitations, and other issues that might impact scalability and reliability.
-    1. **Iterative Optimization:**
+    - [ ] **Iterative Optimization:**
         - Use the insights from the stress tests to optimize the pipeline. This could involve tuning configurations, optimizing data models, or improving processing logic.
 - **Additional Considerations:**
-    - **Cost Management:** Be aware of the potential costs associated with high-volume processing, especially in cloud environments.
-    - **Data Security:** Ensure that test data is secure and compliant with data protection regulations.
-    - **Documentation:** Maintain thorough documentation of the testing methodology, configurations used, and findings for future reference and compliance purposes.
+    - [ ] **Cost Management:** Be aware of the potential costs associated with high-volume processing, especially in cloud environments.
+    - [ ] **Data Security:** Ensure that test data is secure and compliant with data protection regulations.
+    - [ ] **Documentation:** Maintain thorough documentation of the testing methodology, configurations used, and findings for future reference and compliance purposes.
 
 
 ### Security Testing and Standards:
 - **Security Testing Methodology, Approach and Phases:**
-    - **Planning Phase:** Identifying key assets, defining security requirements, and establishing testing goals.
-    - **Threat Modeling:** Creating a threat model to identify potential security threats and vulnerabilities.
-    - **Test Planning:** Developing a detailed security testing plan, including tools, techniques, and schedules.
-    - **Execution Phase:** Conducting the security tests as per the plan.
-    - **Analysis Phase:** Analyzing test results to identify security flaws and vulnerabilities.
-    - **Reporting and Feedback:** Documenting findings and providing actionable recommendations.
+    - [ ] **Planning Phase:** Identifying key assets, defining security requirements, and establishing testing goals.
+    - [ ] **Threat Modeling:** Creating a threat model to identify potential security threats and vulnerabilities.
+    - [ ] **Test Planning:** Developing a detailed security testing plan, including tools, techniques, and schedules.
+    - [ ] **Execution Phase:** Conducting the security tests as per the plan.
+    - [ ] **Analysis Phase:** Analyzing test results to identify security flaws and vulnerabilities.
+    - [ ] **Reporting and Feedback:** Documenting findings and providing actionable recommendations.
 - **Basic Principles:**
     - Always **prioritize security** in all aspects of development.
-    - **Regularly update packages and dependencies.**
-    - **Encrypt sensitive data both in transit and at rest.**
+    - [ ] **Regularly update packages and dependencies.**
+    - [ ] **Encrypt sensitive data both in transit and at rest.**
     - **Secret Management:**
-        - **Python-dotenv;**
+        - [ ] **Python-dotenv;**
             - Use [Python-dotenv](https://pypi.org/project/python-dotenv/) for managing `.env` files.
-        - **Secrets Vault:**
+        - [ ] **Secrets Vault:**
             - For storing secrets in a more secure manner, consider using a secrets vault.
-        - **Basic Principles:**
-            - Never commit secrets to the repository.
-            - Use environment-specific configuration files for managing secrets.
+        - [ ] **Basic Principles:**
+            - [ ] Never commit secrets to the repository.
+            - [ ] Use environment-specific configuration files for managing secrets.
         - **Stop Using `.env` Files for _Everything_:**
             - Follow the guidelines from this [dev.to article](https://dev.to/gregorygaines/stop-using-env-files-now-kp0) which suggests not using `.env` files for everything. Instead, `.env` files should only be used for API keys and environment variables for the secrets vault.
-    - Follow the **[OWASP Top Ten](https://owasp.org/www-project-top-ten/)** as a foundational framework for security testing. The OWASP Top Ten provides a list of the most critical web application security risks and how to mitigate them.
+    - [ ] Follow the **[OWASP Top Ten](https://owasp.org/www-project-top-ten/)** as a foundational framework for security testing. The OWASP Top Ten provides a list of the most critical web application security risks and how to mitigate them.
         - For a practical understanding of penetration testing, consider watching [this YouTube video](https://www.youtube.com/watch?v=YYe0FdfdgDU) which provides a hands-on demonstration.
 - **Trusting Your Workspace:**
     - Follow the guidelines from the [VS Code documentation](https://code.visualstudio.com/docs/devcontainers/containers#_trusting-your-workspace) to trust your workspace.
@@ -193,14 +193,14 @@
         - Outlining the specific objectives and scope of security testing, focusing on identifying and mitigating security vulnerabilities within the API, ML, and AI components.
     - **Testing Methods:**
         - **Static Application Security Testing (SAST):** Utilizing tools to analyze source code for potential security vulnerabilities.
-            - **Complexity Index:**
+            - [ ] **Complexity Index:**
                 - Use [Flake8](https://pypi.org/project/flake8/) to measure the complexity of the code; aim for a score below 12
-            - **Static Code Analysis:**
-                - **Local:** Use [MyPy](https://mypy.readthedocs.io/en/stable/getting_started.html) for type checking and static code analysis
-                - **CI/CD:** Use [SonarQube](https://www.sonarsource.com/products/sonarqube/downloads/success-download-community-edition/) for type checking and static code analysis in the ID
-            - **Linting:**
+            - [ ] **Static Code Analysis:**
+                - [ ] **Local:** Use [MyPy](https://mypy.readthedocs.io/en/stable/getting_started.html) for type checking and static code analysis
+                - [ ] **CI/CD:** Use [SonarQube](https://www.sonarsource.com/products/sonarqube/downloads/success-download-community-edition/) for type checking and static code analysis in the ID
+            - [ ] **Linting:**
                 - Use [Black](https://pypi.org/project/black/) for code formatting
-            - **Type Hinting:**
+            - [ ] **Type Hinting:**
                 - Always use type hints for function arguments and return types at the top level
                 - use the standary `typing` library for type hints
         - **Dynamic Application Security Testing (DAST):** Conducting tests on running applications to identify real-time security issues.
@@ -266,7 +266,7 @@
 |--------------------------|-------------------------|--------------------|-----------------------|----------------------|
 | ...                      | ...                     | ...                | ...                   | ...                  |
 
-- **Results and Mitigation:**
+- [ ] **Results and Mitigation:**
     - **Findings:**
     - Documenting the security vulnerabilities found during testing, categorized by severity.
     - **Mitigation Strategies:**
