@@ -29,19 +29,19 @@
 ### CI/CD
 >The following sequence serves as a guideline for setting up a CI/CD pipeline. This should be treated as a checklist to ensure that all necessary steps have been considered. The sequence can be customized per project, but if followed in the order below, it will provide a solid foundation:
 
-**Automation tool of choice:** {{automation_tool_of_choice}}
+**Automation tool of choice:** `{{automation_tool_of_choice}}`
 
 #### Local and Pre-Commit
 While many of these can happen in the local development environment such as in an IDE, ensuring these are enforced through the pre-commit can prevent issues. Consider including and asking the client about the following:
 - [ ] Pre-commit
-- [ ] Lint & Formatting
-- [ ] Local Package/Module Validation Testing (*required stopping point)
-- [ ] Local Static Code Analysis (potential stopping point)
-- [ ] Local Static Code Complexity Analysis (potential stopping point)
-- [ ] Local Tests (potential stopping point)
-- [ ] Local Env Build
-- [ ] Local Build Port Scan (if implemented stopping point)
-- [ ] Local Versioning
+    - [ ] Lint & Formatting
+    - [ ] Local Package/Module Validation Testing (*required stopping point)
+    - [ ] Local Static Code Analysis (potential stopping point)
+    - [ ] Local Static Code Complexity Analysis (potential stopping point)
+    - [ ] Local Tests (potential stopping point)
+    - [ ] Local Env Build
+    - [ ] Local Build Port Scan (if implemented stopping point)
+    - [ ] Local Versioning
 
 #### Automation & Repo (Git)
 Ensure that you are using some sort of `Automation` within the pipeline. Consider including and asking the client about the following:
