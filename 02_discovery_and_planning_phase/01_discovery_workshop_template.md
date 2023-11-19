@@ -2,7 +2,7 @@
 
 ## {{project_name}}:
 
-### Workshop {{Title}}:
+### Discovery Workshop: {{title}}:
 
 ### Workshop Purpose:  
 - Understand User and Business Needs
@@ -10,9 +10,9 @@
 - Design Thinking and Prototyping
 - Roadmap and Prioritization
 
-### Discovery Workshop Date: [Date]
-### Time: [Start Time] - [End Time]
-### Location: [Physical Location / Online Platform]
+### Discovery Workshop Date: {{workshop_date}}
+### Time: {{workshop_start_time}} - {{workshop_end_time}}
+### Location [Physical Location / Online Platform]: {{workshop_location}}
 
 #### Materials Provided:
 - [List any handouts, guides, or equipment that will be provided]
@@ -33,20 +33,32 @@
    - Overview of the revised agenda
    - Icebreaker activity
 
+
+| Attendant Name          | Expected Allocation | Role               | Contact Information           |
+|-------------------------|---------------------|--------------------|-------------------------------|
+{% for role in workshop %}
+| {{role.allocated_name}} | {{role.allocation}} | {{role.name}}      | {{role.email}}                |
+{% endfor %}
+
 2. **Session 2: User and Business Needs**
-   -Business Metrics:
-      - Detailed objectives with associated SMART metrics
-      - Methodology for measurement and tracking
-   - User research and expectations
-      - User a Types and personas
-      - User desired actions
-   - Group activity to identify key user needs
-   - Discussion on aligning user needs with business goals
+   - Complete the following in the [Design Document Template](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md)
+      - [ ] [Business Metrics](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#business-metrics):
+         - Detailed objectives with associated SMART metrics
+         - Methodology for measurement and tracking
+      - [ ] [User research and expectations](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#user-types--desired-actions)
+         - User a Types and personas
+         - User desired actions
+         - Link user desired actions to busniess metrics
+   - Group activity to identify key business and user needs
+      - [ ] Discussion on aligning user needs with business goals
 
 3. **Session 2: Ideation and Concept Development**
-   - Brainstorming session guidelines
-   - Team breakout sessions for idea generation
-   - Sharing of concepts with the larger group
+   - Complete the following in the [Design Document Template](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md)
+      - Brainstorming session guidelines
+      - Team breakout sessions for idea generation
+      - Sharing of concepts with the larger group
+      - Group activity to identify key business and user needs
+         - [ ] [Feature prioritization](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#features-and-priorities)
 
 4. **Session 3: Design Thinking and Prototyping**
    - Introduction to design thinking principles
@@ -83,7 +95,7 @@
    - Considerations for cross-platform compatibility and mobile optimization
 
 10. **Closing Remarks and Next Steps**
-   - Summary of the day’s findings, decisions, and identified considerations across all areas
+   - Summary of the workshops findings, decisions, and identified considerations across all areas
    - Outline of next steps, responsibilities, and business and technical follow-ups
    - Feedback collection on the workshop, with an emphasis on the comprehensive approach
 
