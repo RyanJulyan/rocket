@@ -178,7 +178,7 @@ Sketching on the paper templates provided or use prototyping tools to design and
     - [ ] [Penpot](https://penpot.app/)
     - [ ] [Marvel App](https://marvelapp.com/)
     - [ ] [Wireframe.cc](https://wireframe.cc/)
-    - [ ] [Fig](https://www.figma.com/)
+    - [ ] [Figma](https://www.figma.com/)
 
 ### Sketch your app or feature, then take photos
 | Sketch Name: {sketch_name}                                                                                                                                                            |
