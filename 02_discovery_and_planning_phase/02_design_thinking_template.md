@@ -1,23 +1,23 @@
-### What is Design Thinking?
-Design Thinking is a set of principles that helps you go from an idea right the way through to a testable prototype, with the user's needs at the center of every decision.
+## What is Design Thinking?
+Design Thinking is a set of principles that helps you go from an idea right the way through to a testable prototype, with the user's needs at the center of every decision. By the end, you’ll have a working prototype that you can test on your phone or in a browser.
 
 > _“User-centered design means understanding what your users need, how they think, and how they behave – and incorporating that understanding into every aspect of your process."_ Jesse James Garrett — User Experience Designer
 
-### Workshop Agenda
-1. **Empathise:** Aim to use 10% of your session time
+## Workshop Agenda
+1. **[Empathise](#empathise-with-people):** Aim to use 10% of your session time
     - **Empathise with people:** Know the people you're designing for, so you understand their needs better.
-1. **Define:** Aim to use 10% of your session time
+1. **[Define](#define-a-challenge):** Aim to use 10% of your session time
     - **Define a challenge:** Decide on who you want to design for and what you want to help them do.
-1. **Ideate:** Aim to use 10% of your session time
+1. **[Ideate](#ideate-possibilities):** Aim to use 10% of your session time
     - **Ideate possibilities:** Come up with different solutions that might be useful to people - remember there are no bad ideas
-1. **Prototype:** Aim to use 50% of your session time
+1. **[Prototype](#prototype-your-design):** Aim to use 50% of your session time
     - **Prototype your design:** Create a user flow and turn your ideas into interactive mockups.
-1. **Test:** Aim to use 20% of your session time
+1. **[Test](#test-your-design):** Aim to use 20% of your session time
     - **Test your design:** Take your prototypes to your audience and get feedback.
 1. **Present:** It’s now time to share your project!
     - **Discuss and Get Feedback:** Think about pro's and con's of each teams feedback
 
-### Empathise with people
+## Empathise with people
 Know the people you are designing for, so you can understand their needs better. Develop empathy towards your potential end-user and will be the guiding light when you move toward brainstorming solutions. Empathy is at the heart of great design. Without it, the solutions you create can never truly solve the problems of your users.
 
 ### Define the user you are designing for
@@ -40,12 +40,12 @@ Know the people you are designing for, so you can understand their needs better.
 | Generous | [ ] | [ ] | [X] | [ ] | [ ] | Selfish  |
 | Academic | [ ] | [ ] | [X] | [ ] | [ ] | Creative |
 
-#### Likes
+### Likes
 - [...]
-#### Goals
+### Goals
 - [...]
  
-#### Map out a typical day
+### Map out a typical day
 | Time     | Average Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |----------|-------------|--------|---------|-----------|----------|--------|----------|--------|
 | 00:00:00 |             |        |         |           |          |        |          |        |
@@ -97,7 +97,8 @@ Know the people you are designing for, so you can understand their needs better.
 | 23:00:00 |             |        |         |           |          |        |          |        |
 | 23:30:00 |             |        |         |           |          |        |          |        |
 
-### Define a challenge
+
+## Define a challenge
 The big, meaty problem you want to solve for your business, customer and end-user. Using what you learned in the last stage, it's time to discover a pain point to form a clear challenge that you can tackle.
 - [ ] **It's all about the end-user:** Remember this is more about the people you're trying to help than technology
 - [ ] **Keep it focused:** Make sure the problem you are trying to tackle isn't too broad or vague
@@ -108,15 +109,6 @@ The big, meaty problem you want to solve for your business, customer and end-use
 - [ ] Generate ideas that might be useful to the end-user.
     - The goal of ideation is to rapidly create enough simple and crazy ideas that apply to the problem so you can have a discussion to pick the best one.
 
-#### What problem are you trying to solve for your end user?
-- [...]
-#### Why is this important to them?
-- [...]
-
-#### Ideate possibilities
-- Generate as many ideas as possible
-- Even the craziest ideas count!
-- Anchor everything to the user profile and problems you defined in the previous stages
 
 _Put yourself in the specific users shoes and answer the following questions_
 
@@ -152,6 +144,59 @@ _Put yourself in the specific users shoes and answer the following questions_
 | People use:                                                                   |                                  |
 | and I am talented at:                                                         |                                  |
 
-| **Rank**                       | **Idea**            | **Related Talet**                    | **Existing**              | **Head**         | **Heart**         |
-|--------------------------------|---------------------|--------------------------------------|---------------------------|------------------|-------------------|
-_Preference. Logical + Exciting_ | _What is the idea?_ | _Identified talent that you can use_ | _Business already exists_ | _Logical (1-10)_ | _Exciting (1-10)_ |
+### What problem are you trying to solve for your end user?
+- [...]
+### Why is this important to them?
+- [...]
+
+
+## Ideate possibilities
+- [ ] Generate as many ideas as possible
+    - Even the craziest ideas count!
+- [ ] Anchor everything to the user profile and problems you defined in the previous stages
+
+### Ideas list
+
+| **Rank**                       | **Idea**            | **Existing**                              | **Head**         | **Heart**         |
+|--------------------------------|---------------------|-------------------------------------------|------------------|-------------------|
+_Preference. Logical + Exciting_ | _What is the idea?_ | _Business already exists (Provide Links)_ | _Logical (1-10)_ | _Exciting (1-10)_ |
+| ...                            | ...                 | ...                       | ...              | ...               |
+
+### List the user needs and features
+This forces you to apply the ideas you created to real user needs. How many solve the problem your user is facing?
+
+| Our target user needs to be able to:      | Therefore our design needs to be abke to: | Feature Name                              |    
+|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+| ...                                       | ...                                       | ...                                       |
+
+
+## Prototype your design
+Turn ideas into realistic mockups that you can test. Bring your ideas to life and create interactive prototypes, for mobile or web, using Rapid prototyping. The best way to test ideas with users and start a conversation is to show them how the solution works. 
+- Sketching on the paper templates provided or use prototyping tools to design and wireframe, then it's a simple few clicks to make everything interactive.
+    - [ ] Just start building, don't get hung up on visuals
+    - [ ] Don't spend too much time on one idea - move fast!
+    - [ ] Design only the screens that matter for testing
+    - [ ] Prototyping tools such as:
+        - [ ] [Penpot](https://penpot.app/)
+        - [ ] [Marvel App](https://marvelapp.com/)
+        - [ ] [Wireframe.cc](https://wireframe.cc/)
+        - [ ] [Figma](https://www.figma.com/)
+
+### Sketch your app or feature, then take photos
+
+
+## Test your design
+Share your prototype and gain invaluable feedback from the people that matter.
+- [ ] Test your prototype with your end user or simply others in the room
+    - [ ] Give them the sales pitch before using the prototype!
+    - [ ] Don’t interrupt or try to take over, watch and learn!
+- [ ] Observe your user's reactions and behaviour with the prototype without giving instructions.
+    - [ ] Identify where they hit issues or look confused
+    - [ ] Gather feedback that can be used to iterate and improve the experience.
+
+### List of suggestion
+- [...]
+
+
+## Next Steps
+- [...]
