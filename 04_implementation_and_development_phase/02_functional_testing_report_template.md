@@ -55,7 +55,7 @@ This report is intended for a broad range of stakeholders, including the develop
             - **Arrange**: Set up the objects and variables to be tested.
             - **Act**: Perform the action that you want to test.
             - **Assert**: Check that the action has the expected outcome.
-    - **Quickstart:** [JMeter Quickstart](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/quickstarts/pytest_quickstart.md)
+    - **Quickstart:** [Pytest Quickstart](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/quickstarts/pytest_quickstart.md)
 - [ ] **Test Cases and Coverage:**
     - **API Endpoint Testing:** Write test cases for each API endpoint, testing for expected responses, error handling, and edge cases.
     - **ML Model Testing:** Test machine learning models for accuracy, overfitting, and underfitting. Use libraries like `scikit-learn` for model testing.
