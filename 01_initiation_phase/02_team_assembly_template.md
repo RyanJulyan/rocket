@@ -2,6 +2,26 @@
 
 ## {{project_name}}:
 
+**Ensure You Consider Team Composition:**
+- [ ] **Project Manager:**
+    - {{project_manager_excluded_reason}}
+- [ ] **Lead Developer:**
+    - {{lead_developer_excluded_reason}}
+- [ ] **UX Designer:**
+    - {{ux_excluded_reason}}
+- [ ] **UI Designer:**
+    - {{ui_excluded_reason}}
+- [ ] **Data Specialist:**
+    - {{data_specialist_excluded_reason}}
+- [ ] **Lead Backend Developer:**
+    - {{lead_backend_developer_excluded_reason}}
+- [ ] **Lead Frontend Developer:**
+    - {{lead_frontend_developer_excluded_reason}}
+- [ ] **Quality Assurance Lead:**
+    - {{quality_assurance_lead_excluded_reason}}
+- [ ] **Other Specialists:**
+    - {{other_specialists_excluded_reason}}
+
 {% for phase in phases %}
 - **{{phase.name}}:**
     ### Team Composition:
