@@ -17,11 +17,21 @@
 
 ### Scope of Work:
 
+### Client Expectations:
+- **Vision and End Goals:** {{project_client_vision}}
+- **Specific Features/Functions:** {{project_features_overview}}
+- **Success Criteria:** {{project_success_criteria}}
 
 ### Phases:
 {% for phase in phases %}
-- **{{phase.name}}:**
-- **Total Budget:** {{phase.total_budget}}
+#### {{phase.name}}:
+- **Phase Total Budget:** {{phase.total_budget}}
+- **Phase Total Timeframe:** {{phase.total_expected_timeframe}}
+
+#### Client Expectations for Phase:
+- **Phase Vision and End Goals:** {{phase.client_vision}}
+- **Phase Specific Features/Functions:** {{phase.features_overview}}
+- **Phase Success Criteria:** {{phase.success_criteria}}
 
     | Deliverable                  | Milestones                 | Expected Timeline          |
     |------------------------------|----------------------------|----------------------------|
@@ -63,12 +73,10 @@
             *  {{project_legal}}
 - **Technical Limitations:** {{project_technical_limitations}}
 
-### Client Expectations:
-- Vision and End Goals: {{project_client_vision}}
-- Specific Features/Functions: {{project_features}}
-- Success Criteria: {{project_success_criteria}}
-
 ### Additional Notes:
-- Previous Work/References: {{project_previous_work_reference}}
-- Competitor Analysis: {{project_competitor_analysis}}
-- Any other relevant information: {{project_other_information}}
+- **Previous Work/References:**
+    - {{project_previous_work_reference}}
+- **Competitor Analysis:**
+    - {{project_competitor_analysis}}
+- **Any other relevant information:**
+    - {{project_other_information}}
