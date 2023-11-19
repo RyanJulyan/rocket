@@ -21,7 +21,7 @@ Design Thinking is a set of principles that helps you go from an idea right the 
 Know the people you are designing for, so you can understand their needs better. Develop empathy towards your potential end-user and will be the guiding light when you move toward brainstorming solutions. Empathy is at the heart of great design. Without it, the solutions you create can never truly solve the problems of your users.
 
 ### Define the user you are designing for
-- The purpose of this profile is to frame all of your ideas and solutions around the individual that is most likely to use it.
+The purpose of this profile is to frame all of your ideas and solutions around the individual that is most likely to use it.
 - [ ] Capture the basic details about the person you are designing for and build a deeper understanding of their personality, wants and needs.
 - [ ] Imagine what your end-user spends their day doing. What do they prioritise? What do they care about? You can then use this to design something that fits into their daily routine.
 
@@ -172,7 +172,8 @@ This forces you to apply the ideas you created to real user needs. How many solv
 
 ## Prototype your design
 Turn ideas into realistic mockups that you can test. Bring your ideas to life and create interactive prototypes, for mobile or web, using Rapid prototyping. The best way to test ideas with users and start a conversation is to show them how the solution works. 
-- Sketching on the paper templates provided or use prototyping tools to design and wireframe, then it's a simple few clicks to make everything interactive.
+
+Sketching on the paper templates provided or use prototyping tools to design and wireframe, then it's a simple few clicks to make everything interactive.
     - [ ] Just start building, don't get hung up on visuals
     - [ ] Don't spend too much time on one idea - move fast!
     - [ ] Design only the screens that matter for testing
