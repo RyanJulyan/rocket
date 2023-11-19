@@ -1,3 +1,7 @@
+# Design Thinking Template
+
+## {{project_name}}:
+
 ## What is Design Thinking?
 Design Thinking is a set of principles that helps you go from an idea right the way through to a testable prototype, with the user's needs at the center of every decision. By the end, you’ll have a working prototype that you can test on your phone or in a browser.
 
@@ -165,6 +169,7 @@ This forces you to apply the ideas you created to real user needs. How many solv
 | Our target user needs to be able to:      | Therefore our design needs to be abke to: | Feature Name                              |    
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|
 | ...                                       | ...                                       | ...                                       |
+Compare and update the [User desired actions](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#user-types--desired-actions)
 
 
 ## Prototype your design
