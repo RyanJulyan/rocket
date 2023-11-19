@@ -25,20 +25,17 @@ The purpose of this profile is to frame all of your ideas and solutions around t
 - [ ] Capture the basic details about the person you are designing for and build a deeper understanding of their personality, wants and needs.
 - [ ] Imagine what your end-user spends their day doing. What do they prioritise? What do they care about? You can then use this to design something that fits into their daily routine.
 
-#### Name: 
-#### Age: 
-#### Gender: 
-#### Occupation: 
-#### Location: 
-#### Relationship Status: 
+#### User Profile 
+| Name:       | ...           | Age: | ... | Gender:   | ...    | Relationship Status: | ...    |
+|-------------|---------------|------|-----|-----------|--------|----------------------|--------|
+| Occupation: | ...           |      |     | Location: | ...    |                      |        |
 
-#### Personality map
-|          |     |     |     |     |     |          |
-|----------|-----|-----|-----|-----|-----|----------|
-| Outgoing | [ ] | [ ] | [X] | [ ] | [ ] | Shy      |
-| Serious  | [ ] | [ ] | [X] | [ ] | [ ] | Fun      |
-| Generous | [ ] | [ ] | [X] | [ ] | [ ] | Selfish  |
-| Academic | [ ] | [ ] | [X] | [ ] | [ ] | Creative |
+| Personality map |     |     |     |     |     |          |
+|-----------------|-----|-----|-----|-----|-----|----------|
+| Outgoing        | [ ] | [ ] | [X] | [ ] | [ ] | Shy      |
+| Serious         | [ ] | [ ] | [X] | [ ] | [ ] | Fun      |
+| Generous        | [ ] | [ ] | [X] | [ ] | [ ] | Selfish  |
+| Academic        | [ ] | [ ] | [X] | [ ] | [ ] | Creative |
 
 ### Likes
 - [...]
