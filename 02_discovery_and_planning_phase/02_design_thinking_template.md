@@ -171,14 +171,14 @@ This forces you to apply the ideas you created to real user needs. How many solv
 Turn ideas into realistic mockups that you can test. Bring your ideas to life and create interactive prototypes, for mobile or web, using Rapid prototyping. The best way to test ideas with users and start a conversation is to show them how the solution works. 
 
 Sketching on the paper templates provided or use prototyping tools to design and wireframe, then it's a simple few clicks to make everything interactive.
-    - [ ] Just start building, don't get hung up on visuals
-    - [ ] Don't spend too much time on one idea - move fast!
-    - [ ] Design only the screens that matter for testing
-    - [ ] Prototyping tools such as:
-        - [ ] [Penpot](https://penpot.app/)
-        - [ ] [Marvel App](https://marvelapp.com/)
-        - [ ] [Wireframe.cc](https://wireframe.cc/)
-        - [ ] [Fig](https://www.figma.com/)
+- [ ] Just start building, don't get hung up on visuals
+- [ ] Don't spend too much time on one idea - move fast!
+- [ ] Design only the screens that matter for testing
+- [ ] Prototyping tools such as:
+    - [ ] [Penpot](https://penpot.app/)
+    - [ ] [Marvel App](https://marvelapp.com/)
+    - [ ] [Wireframe.cc](https://wireframe.cc/)
+    - [ ] [Fig](https://www.figma.com/)
 
 ### Sketch your app or feature, then take photos
 | Sketch Name: {sketch_name}                                                                                                                                                            |
