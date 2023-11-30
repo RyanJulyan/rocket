@@ -37,8 +37,15 @@
    - Intended audience and reading instructions
 
 ### Business Metrics:
-   - Detailed objectives with associated SMART metrics
-   - Methodology for measurement and tracking
+- Using the following sections from the [Client Briefing template](https://github.com/RyanJulyan/rocket/blob/main/01_initiation_phase/01_client_briefing_template.md)
+  - Purpose of the Project
+   - Key Objectives
+   - Vision and End Goals
+   - Expected Outcomes
+   - Specific Features/Functions
+   - Success Criteria
+- [ ] Unpack detailed objectives with associated SMART metrics
+   - Define the methodology for measurement and tracking
 
 | No #    | Business Metric Name   | Description                 | Business Zone Pain Point                            | Evaluation Timeframe | Calculation                 |
 |---------|------------------------|-----------------------------|-----------------------------------------------------|----------------------|-----------------------------|
