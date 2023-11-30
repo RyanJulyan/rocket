@@ -41,12 +41,13 @@
 {% endfor %}
 
 2. **Session 1: Project Background and Client Expectations:**
-- [ ] Purpose of the Project
-- [ ] Key Objectives
-- [ ] Vision and End Goals
-- [ ] Expected Outcomes
-- [ ] Specific Features/Functions
-- [ ] Success Criteria
+   - Complete the following in the [Client Briefing template](https://github.com/RyanJulyan/rocket/blob/main/01_initiation_phase/01_client_briefing_template.md)
+      - [ ] Purpose of the Project
+      - [ ] Key Objectives
+      - [ ] Vision and End Goals
+      - [ ] Expected Outcomes
+      - [ ] Specific Features/Functions
+      - [ ] Success Criteria
 
 4. **Session 2: User and Business Needs**
    - Complete the following in the [Design Document Template](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md)
