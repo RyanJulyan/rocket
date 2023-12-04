@@ -8,7 +8,7 @@
 | 1              | 2023/11/10     | Created Template             |
 
 ### Business Validation Overview:
-- **Objective:** 
+- **Objective:**
     - [Clarify the goals for the business validation at this stage of the project]
 - **Methodology:**
     - [Describe the methodology used for validation against business objectives]
