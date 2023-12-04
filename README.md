@@ -26,8 +26,9 @@ Accelerate time-to-value using our repository of _Streamlined Client Delivery an
 1. **Review & Handover Phase:** Document everything, train your clients on new features, and smoothly hand over the reins.
     * [Business Validation Report Template](https://github.com/RyanJulyan/rocket/blob/main/05_review_handover_phase/01_business_validation_report_template.md)
     * [Training Template](https://github.com/RyanJulyan/rocket/blob/main/05_review_handover_phase/02_training_template.md)
+    * [Handover Documentation Template](https://github.com/RyanJulyan/rocket/blob/main/05_review_handover_phase/03_handover_documentation_template.md)
 1. **Evolution Phase:** Plan your next big move based on insightful feedback and a proven structured process.
-    * TBC
+    * [Future Planning Template](https://github.com/RyanJulyan/rocket/blob/main/06_evolution_phase/01_future_planning_template.md)
 
 **Empower Your Project Journey!** :muscle:
 Dive into each phase with our templates that offer a blend of guidance, innovation, and adaptability. Say goodbye to the overwhelming jargon and hello to a clear path to success. :dart:
