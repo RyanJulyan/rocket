@@ -105,6 +105,15 @@ The big, meaty problem you want to solve for your business, customer and end-use
 - [ ] **Keep it focused:** Make sure the problem you are trying to tackle isn't too broad or vague
 - [ ] **Check it against the Empathise stage:** Refer back to the user profile to make sure you're on the right track.
 
+### Rules and Best Practices
+- [ ] No Criticism: Avoid judging ideas during the initial generation phase.
+- [ ] Encourage Wild Ideas: Think outside the box and welcome unconventional thoughts.
+- [ ] Build on Others' Ideas: Use other ideas as a springboard for further creativity.
+- [ ] Quantity Over Quality: Focus on generating as many ideas as possible.
+- [ ] Equal Participation: Ensure everyone has a chance to contribute.
+- [ ] Stay Focused: Keep the discussion relevant to the topic.
+- [ ] Time Management: Adhere to the time allocated for each phase.
+
 ### Choose your challenge
 - [ ] Define the problem you are trying to solve for the end-user and why it’s going to be important to them. Keep referring back to this as you go.
 - [ ] Generate ideas that might be useful to the end-user.
