@@ -265,9 +265,72 @@ This report is intended for a broad range of stakeholders, including the develop
             - [ ] **Secure Data Validation**: Validate input and output data.
             - [ ] **Security Testing**: Regularly assess for vulnerabilities.
             - [ ] **Secure Session Management**: Invalidate sessions securely.
-    - [ ] **ML/AI Model Security:**
+    - [ ] **ML/AI/LLM Model Security:**
         - Assessing the security of data pipelines and model serving infrastructure.
         - Evaluating the resilience of ML models against adversarial attacks.
+        - [ ] **Prompt Injection**: 
+           - [ ] Educate teams about prompt injection, akin to SQL injection, to prevent manipulation of Language Learning Models (LLMs).
+           - [ ] Apply least privilege principles between LLMs and data/functionality.
+           - [ ] Limit sensitive data access by LLMs.
+           - [ ] Sanitize LLM actions and responses.
+           - [ ] Use function calling to avoid unstructured data issues.
+           - Be cautious of indirect prompt injections.
+        - [ ] **Restrict Data Access for LLMs and Sensitive Information Disclosure**: 
+           - [ ] Treat LLMs like user data, ensuring careful direct access.
+           - [ ] Implement input and output guard checks to sanitize interactions.
+           - [ ] Limit the data provided to LLMs.
+        - [ ] **Keep a Human in the Loop**: 
+           - [ ] Exercise caution with AI-generated code and autonomous agents.
+           - [ ] Validate and integrate code security into the development process.
+        - [ ] **Secure Your Vulnerabilities**: 
+           - [ ] Treat AI-generated code with scrutiny and use tools to automate testing.
+           - [ ] Manually verify open-source libraries suggested by AI.
+        - [ ] **Don’t Provide IP/Private Info to Public GPT Engines**: 
+           - [ ] Avoid sharing sensitive information with public AI engines.
+           - [ ] Investigate enterprise-ready versions of AI tools and educate teams on policy.
+        - [ ] **Use Hybrid AI Models**: 
+           - [ ] Choose the right tool for the job, considering both symbolic AI and LLMs.
+           - [ ] Symbolic AI excels in small domains with specific rules, while LLMs are better for broad, general-purpose problems.
+        - [ ] **Use Good Training Data**: 
+           - [ ] Utilize various in-context learning techniques for LLMs.
+           - [ ] Validate data sources and be cautious of data hallucinations.
+        - [ ] **Beware of Hallucinations and Misleading Data**: 
+           - [ ] Always validate LLM output and be wary of executing dangerous functions without validation.
+           - [ ] Consider human interaction to avoid critical data/system impact.
+        - [ ] **Keep Track of Your AI Supply Chain**: 
+           - [ ] Maintain a list of data sources for training/tuning LLMs.
+           - [ ] Validate data using attestation/signing techniques.
+           - [ ] Use attestation/signing techniques for data validation 
+           - [ ] Evaluate security risks of malicious and typosquatting libraries related to AI and LLMs.
+           - [ ] Be cautious of AI-recommended tools or SDKs.
+        - [ ] **Insecure Output Handling**:
+           - [ ] Prevent direct access of LLMs to sensitive data.
+           - [ ] Implement least privilege rules.
+           - [ ] Restrict LLMs from executing dangerous functions without validation.
+        - [ ] **Training Data Poisoning**:
+           - [ ] Validate and verify data sources.
+           - [ ] Sandbox data sources to prevent easy external additions.
+           - [ ] Sign or attest data used for training.
+        - [ ] **Model Denial of Service (MDoS)**:
+           - [ ] Restrict input evaluation steps using frameworks like LangChain.
+           - [ ] Follow LLM architecture best practices, including circuit breakers.
+           - [ ] Sanitize and validate inputs and rate-limit calls.
+        - [ ] **Insecure Plugin Design**:
+           - [ ] Treat LLM output like user input.
+           - [ ] Use varied parameter inputs for plugins.
+           - [ ] Consider plugin interactions as API contracts and follow OWASP API Security Risks best practices.
+        - [ ] **Excessive Agency**:
+           - Avoid excessive:
+               - [ ] Functionality
+               - [ ] Permissions
+               - [ ] Autonomy in LLM applications and plugins.
+        - [ ] **Overreliance**:
+           - [ ] Treat generated code as if it were written by a junior developer: validate, test, correct.
+           - [ ] Use tools for automating AI-generated code security testing.
+           - [ ] Educate teams about hallucinations and disinformation from generative AI.
+        - [ ] **Model Theft**:
+           - [ ] Protect digital IP from unauthorized access to LLMs.
+           - [ ] Employ best practices like Role-Based Access Control (RBAC).
     - **Compliance with Security Standards:**
         - Ensuring adherence to relevant security standards such as:
             - [ ] OWASP Top 10
