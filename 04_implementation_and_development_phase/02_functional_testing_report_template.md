@@ -246,7 +246,7 @@ This report is intended for a broad range of stakeholders, including the develop
         - Ensuring authentication, authorization, and data encryption mechanisms are robust.
         - **20 API Security Tips:**
             - [ ] **Regular Updates**: Keep the API code and external packages up-to-date with patches.
-            - [ ] **Strong Authentication**: Use OAuth 2.0 or MT for authorized access.
+            - [ ] **Strong Authentication**: Use OAuth 2.0 or JWT for authorized access.
             - [ ] **HTTPS Encryption**: Transmit data securely with HTTPS.
             - [ ] **Rate Limiting**: Prevent API abuse with rate limiting.
             - [ ] **Data Encryption**: Encrypt sensitive data in transit and at rest.
