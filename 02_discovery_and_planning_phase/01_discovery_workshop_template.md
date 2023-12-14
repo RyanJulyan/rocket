@@ -53,7 +53,7 @@ A process defined from a combination of [UX Design](https://www.uxdesigninstitut
    - [ ] [Business Metrics](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#business-metrics):
       - Detailed objectives with associated SMART metrics
       - Methodology for measurement and tracking
-   - [ ] Hight level [process flow](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#high-level-process-flow)
+   - [ ] High level [process flow](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#high-level-process-flow)
       - Detailed logical view with diagrams
       - Description of the 4+1 architectural view
       - Narratives for each high-level process
