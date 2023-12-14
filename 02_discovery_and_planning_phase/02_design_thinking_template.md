@@ -167,10 +167,27 @@ _Put yourself in the specific users shoes and answer the following questions_
 
 ### Ideas list
 
-| **Rank**                       | **Idea**            | **Existing**                              | **Head**         | **Heart**         |
-|--------------------------------|---------------------|-------------------------------------------|------------------|-------------------|
-_Preference. Logical + Exciting_ | _What is the idea?_ | _Business already exists (Provide Links)_ | _Logical (1-10)_ | _Exciting (1-10)_ |
-| ...                            | ...                 | ...                       | ...              | ...               |
+
+#### Identify Internal Solutions list
+
+| **Project**            | **Description**                           | **Success*       | **Learning**                    | **Useful to your new project**               |
+|------------------------|-------------------------------------------|------------------|---------------------------------|----------------------------------------------|
+| _What is the project?_ | _Project already exists (Provide Links)_  | _True/False_     | _What can you learn from this?_ | _What can you reuse/take from this project?_ |
+| ...                    | ...                                       | [ ]              | ...                             | ...                                          |
+
+#### Identify External Solutions list
+
+| **Project**            | **Description**                           | **Likes*                             | **Dislikes**                            | **Useful to your new project**               |
+|------------------------|-------------------------------------------|--------------------------------------|-----------------------------------------|----------------------------------------------|
+| _What is the project?_ | _Project already exists (Provide Links)_  | _What do you like about the project_ | _What do you dislike about the project_ | _What can you reuse/take from this project?_ |
+| ...                    | ...                                       | ...                                  | ...                                     | ...                                          |
+
+### New Ideas list
+
+| **Rank**                        | **Idea**            | **Existing**                              | **Head**         | **Heart**         | **Cool Factor**   |
+|---------------------------------|---------------------|-------------------------------------------|------------------|-------------------|-------------------|
+|_Preference. Logical + Exciting_ | _What is the idea?_ | _Business already exists (Provide Links)_ | _Logical (1-10)_ | _Exciting (1-10)_ | _Wow Factor_      |
+| ...                             | ...                 | ...                                       | ...              | ...               | ...               |
 
 ### List the user needs and features
 This forces you to apply the ideas you created to real user needs. How many solve the problem your user is facing?
