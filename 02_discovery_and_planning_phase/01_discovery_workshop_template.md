@@ -1,4 +1,5 @@
 # Discovery Workshop Template
+A process defined from a combination of [UX Design](https://www.uxdesigninstitute.com/blog/ux-design-process/), [Design Thinking](https://www.thinkwithgoogle.com/future-of-marketing/creativity/design-thinking-principles/), the book [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp et al](https://www.amazon.com/Sprint-audiobook/dp/B01BXB1B7K)
 
 ## {{project_name}}:
 
@@ -24,21 +25,18 @@
 - [Describe how the outcomes will be documented and shared post-workshop]
 
 #### Participants
-- [List participants and their roles within the project]
-- ...
-
-### Agenda:  
-#### 1. **Introduction and Welcome**
-- Opening remarks
-- Overview of the revised agenda
-- Icebreaker activity
-
 
 | Attendant Name          | Role               | Contact Information           |
 |-------------------------|--------------------|-------------------------------|
 {% for role in workshop %}
 | {{role.allocated_name}} | {{role.name}}      | {{role.email}}                |
 {% endfor %}
+
+### Agenda:  
+#### 1. **Introduction and Welcome**
+- Opening remarks
+- Overview of the revised agenda
+- Icebreaker activity
 
 #### 2. **Session 1: Project Background and Client Expectations:**
 - Complete the following in the [Client Briefing template](https://github.com/RyanJulyan/rocket/blob/main/01_initiation_phase/01_client_briefing_template.md)
