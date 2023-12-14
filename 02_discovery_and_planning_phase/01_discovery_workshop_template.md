@@ -37,8 +37,19 @@ A process defined from a combination of [UX Design](https://www.uxdesigninstitut
 - Opening remarks
 - Overview of the revised agenda
 - Icebreaker activity
+   - [ ] What is your "silly" life hack
 
 #### 2. **Session 1: Project Background and Client Expectations:**
+- Innovation Session
+   - [ ] Identify Current Solutions
+      - [ ] Successes
+      - [ ] Failures
+      - [ ] Learnings
+   - [ ] External Inspiration
+      - [ ] Likes
+      - [ ] Dislikes
+      - [ ] Cool Factor
+   - [ ] Current Trends
 - Complete the following in the [Client Briefing template](https://github.com/RyanJulyan/rocket/blob/main/01_initiation_phase/01_client_briefing_template.md)
    - [ ] Purpose of the Project
    - [ ] Key Objectives
