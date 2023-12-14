@@ -40,17 +40,6 @@ A process defined from a combination of [UX Design](https://www.uxdesigninstitut
    - [ ] e.g. What is your "silly" life hack
 
 #### 2. **Session 1: Project Background and Client Expectations:**
-- Innovation Session
-   - [ ] Identify Current Solutions
-      - [ ] Successes
-      - [ ] Failures
-      - [ ] Learnings
-   - [ ] External Inspiration
-      - [ ] Likes
-      - [ ] Dislikes
-      - [ ] Cool Factor
-   - [ ] Current Trends
-   - [ ] Actionable Insights
 - Complete the following in the [Client Briefing template](https://github.com/RyanJulyan/rocket/blob/main/01_initiation_phase/01_client_briefing_template.md)
    - [ ] Purpose of the Project
    - [ ] Key Objectives
@@ -79,6 +68,16 @@ A process defined from a combination of [UX Design](https://www.uxdesigninstitut
          - User a Types and personas
          - [User desired actions](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#user-types--desired-actions)
          - Link user desired actions to busniess metrics
+      - [ ] Identify Internal Solutions
+         - [ ] Successes
+         - [ ] Failures
+         - [ ] Learnings
+      - [ ] External Inspiration
+         - [ ] Likes
+         - [ ] Dislikes
+         - [ ] Cool Factor
+      - [ ] Current Trends
+      - [ ] Actionable Insights
       - [ ] Hands-on prototyping of selected ideas
    - Group activity to present ideas and prioritize features 
       - [ ] Group presentations and feedback on prototypes
