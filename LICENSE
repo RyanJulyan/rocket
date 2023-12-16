@@ -1,3 +1,38 @@
+The rocket License
+
+rocket is created and distributed under the developer-friendly rocket License. The rocket License is derived from the popular Apache 2.0 license.
+
+The rocket License is the legal requirement for you or your company to use and distribute rocket and derivative works such as the applications you make with it. Your application or project can have a different license, but it still needs to comply with the original one.
+
+The license grants you the following permissions:
+• You are free to commercialise any software created using original or modified (derivative) versions of rocket
+• You are free to commercialise any plugin, extension or tool created for use with rocket
+• You are free to modify rocket and you are not required to share the changes
+• You are free to distribute original or modified (derivative) versions of rocket
+• You are given a license to any patent that covers rocket
+
+The license prevents you from doing the following:
+• You can not commercialise original or modified (derivative) versions of the rocket editor, creator and/or engine
+• You can not hold rocket or Ryan Julyan liable for damages caused by the use of rocket
+• You can not bring any warranty claims to rocket or Ryan Julyan
+• You can not use the rocket trademark unless express permission has been given (see exceptions and additional information)
+The license requires that you do the following:
+    • You must include the rocket license and copyright notice in any work you create
+    • You must state significant changes made to rocket
+
+License and copyright notice inclusion
+
+The rocket License requires that you must include the license and copyright notice with all copies of rocket and in any derived work created using rocket. It is up to you to decide how you wish to distribute the license and notice. Below are some examples of how this can be done:
+    • Show the license and notice at the end of a credits screen if your application has one
+    • Show the license and notice from a dedicated license screen or popup in your application
+    • Print the license and notice to an output log when your application starts
+    • Put the license and notice in a text file and include it with the distribution of your application
+    • Put the license and notice in a printed manual included with your application
+
+The rocket license and copyright notice can be seen below. Marked text (i.e. `like this`) highlights the changes made from the original Apache 2.0 license.
+
+________________________________________
+
 `rocket License`
 `Version 0.1, November 2023`
 `https://github.com/RyanJulyan/rocket`
