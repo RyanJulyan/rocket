@@ -16,6 +16,7 @@ Accelerate time-to-value using our repository of _Streamlined Client Delivery an
 1. **Discovery & Planning Phase:** Dive deep into project needs with immersive workshops and detailed design documents.
     * [Discovery Workshop Template](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/01_discovery_workshop_template.md)
 1. **Design & Documentation Phase:** Define SMART business metrics, user analysis, and secure crucial approvals.
+    * [One-page Business Plan](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/00_one_page_business_plan.md)
     * [Design Document Template](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md)
     * [Technical and Data Specifications Template](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/02_technical_and_data_specifications_template.md)
     * [Appendices Template](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/03_appendices_template.md)
