@@ -50,6 +50,47 @@
 #### Comments and Feedback:
 - [Space for any comments or feedback from the reviewers and signatories]
 
+### Software Framework Comparison
+
+#### Internal Factors
+##### Consider People
+- **Accessibility**:
+  - Direct Evaluation
+  - Evaluate Simple App/ tests
+  - Team is comfortable
+
+##### Consider Project
+- **Interface**:
+  - Read me
+  - Documentation
+  - Simple App / Sample App
+
+#### External Factors
+##### Consider People
+- **Popularity**:
+  - News
+  - Recent Blogs / Podcasts/ screencasts
+  - Stack Overflow answers
+  - Colleagues
+  - Reddit
+  - Books
+  - Videos
+
+##### Consider Project
+- **Activity**:
+  - Release Schedule
+  - Date of Last Release
+  - Number and Age of Issues
+  - Comments
+
+#### Chosen Frameworks
+| Chosen Framework | Accessibility                             | README            | API docs           | Popularity               | Activity           |
+|------------------|-------------------------------------------| ----------------- |------------------- | ------------------------ | ------------------ |
+| [Your Framework] | [Team assessments/examples/product tests] | [README Location] |[API Docs Location] | [News/forum Source Site] | [Activity Rating ] |
+
+#### Comments and Feedback:
+- [Space for any comments or feedback from the reviewers and signatories]
+
 ### System Integration Challenges:
 - **Interoperability:** Evaluate the ability to integrate new systems with existing legacy systems.
 - **Data Integration:** Consider challenges in integrating data from different sources or formats.

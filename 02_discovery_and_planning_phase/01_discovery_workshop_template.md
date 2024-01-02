@@ -1,4 +1,5 @@
 # Discovery Workshop Template
+A process defined from a combination of [UX Design](https://www.uxdesigninstitute.com/blog/ux-design-process/), [Design Thinking](https://www.thinkwithgoogle.com/future-of-marketing/creativity/design-thinking-principles/), the book [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp et al](https://www.amazon.com/Sprint-audiobook/dp/B01BXB1B7K)
 
 ## {{project_name}}:
 
@@ -24,21 +25,19 @@
 - [Describe how the outcomes will be documented and shared post-workshop]
 
 #### Participants
-- [List participants and their roles within the project]
-- ...
-
-### Agenda:  
-#### 1. **Introduction and Welcome**
-- Opening remarks
-- Overview of the revised agenda
-- Icebreaker activity
-
 
 | Attendant Name          | Role               | Contact Information           |
 |-------------------------|--------------------|-------------------------------|
 {% for role in workshop %}
 | {{role.allocated_name}} | {{role.name}}      | {{role.email}}                |
 {% endfor %}
+
+### Agenda:  
+#### 1. **Introduction and Welcome**
+- Opening remarks
+- Overview of the revised agenda
+- Icebreaker activity
+   - [ ] e.g. What is your "silly" life hack
 
 #### 2. **Session 1: Project Background and Client Expectations:**
 - Complete the following in the [Client Briefing template](https://github.com/RyanJulyan/rocket/blob/main/01_initiation_phase/01_client_briefing_template.md)
@@ -54,7 +53,7 @@
    - [ ] [Business Metrics](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#business-metrics):
       - Detailed objectives with associated SMART metrics
       - Methodology for measurement and tracking
-   - [ ] Hight level [process flow](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#high-level-process-flow)
+   - [ ] High level [process flow](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#high-level-process-flow)
       - Detailed logical view with diagrams
       - Description of the 4+1 architectural view
       - Narratives for each high-level process
@@ -69,6 +68,16 @@
          - User a Types and personas
          - [User desired actions](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#user-types--desired-actions)
          - Link user desired actions to busniess metrics
+      - [ ] Identify Internal Solutions
+         - [ ] Successes
+         - [ ] Failures
+         - [ ] Learnings
+      - [ ] External Inspiration
+         - [ ] Likes
+         - [ ] Dislikes
+         - [ ] Cool Factor
+      - [ ] Current Trends
+      - [ ] Actionable Insights
       - [ ] Hands-on prototyping of selected ideas
    - Group activity to present ideas and prioritize features 
       - [ ] Group presentations and feedback on prototypes
