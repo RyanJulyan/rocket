@@ -16,11 +16,13 @@
 - Expected Outcomes: {{project_expected_outcomes}}
 
 ### Scope of Work:
-
 ### Client Expectations:
-- **Vision and End Goals:** {{project_client_vision}}
-- **Specific Features/Functions:** {{project_features_overview}}
-- **Success Criteria:** {{project_success_criteria}}
+- **Vision and End Goals:**
+{{project_client_vision}}
+- **Specific Features/Functions:**
+{{project_features_overview}}
+- **Success Criteria:**
+{{project_success_criteria}}
 
 ### Phases:
 {% for phase in phases %}
