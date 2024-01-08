@@ -104,6 +104,39 @@ The purpose of this profile is to frame all of your ideas and solutions around t
 | 23:30:00 |             |        |         |           |          |        |          |        |
 
 
+### Understand The Users Motivation
+#### The Challenges with Function-Focused Design
+Most systems are “function-focused,” designed to get the job done quickly. This is like a factory that assumes its workers will do their jobs because they are required to. However, Human-Focused Design remembers that people in a system have feelings, insecurities, and reasons why they want or do not want to do certain things, and therefore optimizes their feelings, motivations, and engagement.
+
+Framework called Octalysis, designed as an octagon shape with 8 Core Drives representing each side.
+
+| Applicable | Core Drive                           | Brief Explanation                                                                                |
+|------------|--------------------------------------|--------------------------------------------------------------------------------------------------|
+| [ ]        | Epic Meaning & Calling               | Doing something greater than oneself / was “chosen” to do something.                             |
+| [ ]        | Development & Accomplishment         | Internal drive of making progress, developing skills, and eventually overcoming challenges       |
+| [ ]        | Empowerment of Creativity & Feedback | Creative process where they have to repeatedly figure things out and try different combinations. |
+| [ ]        | Ownership & Possession               | Feel like they own something. wants to make better and own even more.                            |
+| [ ]        | Social Influence & Relatedness / Social Pressure & Envy | Social elements that drive people, including: mentorship, acceptance, social responses, companionship, as well as competition and envy. |
+| [ ]        | Scarcity & Impatience                | Wanting something because you can’t have it.                                                     |
+| [ ]        | Unpredictability & Curiosity         | Wanting to find out what will happen next. If you don’t know what’s going to happen, your brain is engaged and you think about it often. |
+| [ ]        | Loss & Avoidance                     | The avoidance of something negative happening                                                    |
+
+Use the [Octalysis Tool](https://yukaichou.com/octalysis-tool/) to complete a more visually apealing motivational profile. You can `Export All` and reference this later.
+
+### Understand The users Experience Level
+| Current Phase | Experience Phase | Brief Explanation                                                                |
+|---------------|------------------|----------------------------------------------------------------------------------|
+| [ ]           | Discovery Phase  | Why would people even want to start the journey / using your product or service. |
+| [ ]           | On-boarding      | How do you teach users the rules and tools to use your product or service.       |
+| [ ]           | Scaffolding      | The regular journey of repeated actions towards a goal.                          |
+| [ ]           | Endgame          | How do you retain your veterans.                                                 |
+
+| Discovery          | On-boarding               | Scaffolding                        | Endgame                           |
+|--------------------|---------------------------|------------------------------------|-----------------------------------|
+| **Elevator Pitch** | **Tutorial / First Goal** | **Relationship Model /Hook Model** | **System Goals & Responsibility** |
+| Elevator Pitch per user type, so that they know where to start and what they are going to get from it | Focus on smallest and shortest achievable goal | What is the basic loop / flow of a user. Know where to leverage feedback loops | What do I get for my investment into your product or service, others know you are powerful |
+
+
 ## Define a challenge
 The big, meaty problem you want to solve for your business, customer and end-user. Using what you learned in the last stage, it's time to discover a pain point to form a clear challenge that you can tackle.
 - [ ] **It's all about the end-user:** Remember this is more about the people you're trying to help than technology
@@ -130,38 +163,42 @@ _Put yourself in the specific users shoes and answer the following questions_
 | **Questions**                                                                 | **Answers**                      |
 |-------------------------------------------------------------------------------|----------------------------------|
 | **What is something - that on a regular basis - you;**                                                           |
-| Complain about?                                                               |                                  |
-| Is missing?                                                                   |                                  |
-| Is too hard to get/find?                                                      |                                  |
-| Is too hard to use?                                                           |                                  |
-| I wish I could:                                                               |                                  |
-| It drives me crazy that:                                                      |                                  |
+| Complain about?                                                               | [...]                            |
+| Is missing?                                                                   | [...]                            |
+| Is too hard to get/find?                                                      | [...]                            |
+| Is too hard to use?                                                           | [...]                            |
+| I wish I could:                                                               | [...]                            |
+| It drives me crazy that:                                                      | [...]                            |
 | **What is something - that on a regular basis - you hear others;**                                               |
-| Complain about?                                                               |                                  |
-| Say is missing?                                                               |                                  |
-| Say is too hard to get/find?                                                  |                                  |
-| Say is too hard to use?                                                       |                                  |
-| Why doesn’t someone:                                                          |                                  |
-| It’s annoying that:                                                           |                                  |
+| Complain about?                                                               | [...]                            |
+| Say is missing?                                                               | [...]                            |
+| Say is too hard to get/find?                                                  | [...]                            |
+| Say is too hard to use?                                                       | [...]                            |
+| Why doesn’t someone:                                                          | [...]                            |
+| It’s annoying that:                                                           | [...]                            |
 | **What is something that others have repeatedly ask you to;**                                                    |
-| Do for them?                                                                  |                                  |
-| Give you them?                                                                |                                  |
-| Make for them?                                                                |                                  |
-| Could you please:                                                             |                                  |
-| You are the best at:                                                          |                                  |
-| What is something that a business did repeatedly that you got upset about?    |                                  |
-| How could you solve that problem so it doesn’t happen again?                  |                                  |
-| I hate it when:                                                               |                                  |
-| and I could solve it by:                                                      |                                  |
+| Do for them?                                                                  | [...]                            |
+| Give you them?                                                                | [...]                            |
+| Make for them?                                                                | [...]                            |
+| Could you please:                                                             | [...]                            |
+| You are the best at:                                                          | [...]                            |
+| What is something that a business did repeatedly that you got upset about?    | [...]                            |
+| How could you solve that problem so it doesn’t happen again?                  | [...]                            |
+| I hate it when:                                                               | [...]                            |
+| and I could solve it by:                                                      | [...]                            |
 | **What is something people frequently ask for/buy/use that relates to your talents?**                            |
-| People ask for:                                                               |                                  |
-| People buy:                                                                   |                                  |
-| People use:                                                                   |                                  |
-| and I am talented at:                                                         |                                  |
+| People ask for:                                                               | [...]                            |
+| People buy:                                                                   | [...]                            |
+| People use:                                                                   | [...]                            |
+| and I am talented at:                                                         | [...]                            |
 
 ### What problem are you trying to solve for your end user?
 - [...]
-### Why is this important to them?
+### Why is this important to your end user?
+- [...]
+### What will end users' life look like, if they buy your product?
+- [...]
+### What consequences is your end user trying to avoid? 
 - [...]
 
 
@@ -265,6 +302,9 @@ Compare and update the [User desired actions](https://github.com/RyanJulyan/rock
 | Do you have a trademark?                                                     | [ ] Yes / [ ] No |
 | Do you have copyright?                                                       | [ ] Yes / [ ] No |
 
+### What does your end user need to do to, to buy your product? 
+- [...]
+
 
 ## Prototype your design
 Turn ideas into realistic mockups that you can test. Bring your ideas to life and create interactive prototypes, for mobile or web, using Rapid prototyping. The best way to test ideas with users and start a conversation is to show them how the solution works. 
@@ -275,27 +315,40 @@ You need to be able to quickly and concisely tell people about your product/serv
 - We help **[insert ideal client]** achieve **[insert what you help them do]** through **[insert methodology]**
 - We **[insert what you help them do]** by **[insert methodology]** for **[insert ideal client]**
 
-### Types of Prototypes / MVP's
+### Hook Model
+How to Build Habit: [HOOKED by Nir Eyal | Core Message](https://www.youtube.com/watch?v=6Kz8NfntC6A)
+| Hook Phase | Brief Explanation                                                                           | Your Core Hook Phase |
+|------------|---------------------------------------------------------------------------------------------|----------------------|
+| Trigger    | What is users itch/internal trigger, What is the external trigger that prompts next action. | [...]                |
+| Action     | What is the simplest behaviour done in anticipation of reward.                              | [...]                |
+| Reward     | Is the reward fulfilling, but leaves user wanting more.                                     | [...]                |
+| Investment | How do you retain your veterans.                                                            | [...]                |
 
+> If your reward or investment can create another trigger, then you create a loop
+
+### Types of Prototypes / MVP's
 You do not have to create a 100% working product right away, first time. Start small and work your way up. Here are some examples of simple, easy and low budget MVP’s that you could apply to your idea, regardless of what your product is:
 
 ### Faking it
 Not a real product. You can think of this as testing the idea without a prototype. e.g.:
 
-| What      | Examples                                                             |
-|-----------|----------------------------------------------------------------------|
-| Survey    | - Google Forms<br/>- Survey monkey<br/>- Social Media                |
-| Advert    | - Email Validations<br/>- Flyers to hand out<br/>- Social Media Post |
-| Explainer | - Explainer Video<br/>- Infographic<br/>- Social Media Post          |
+| What      | Examples                                                             | Example Companies                                                |
+|-----------|----------------------------------------------------------------------|------------------------------------------------------------------|
+| Survey    | - Google Forms<br/>- Survey monkey<br/>- Social Media                | - Slack (used extensive user feedback pre-launch)                |
+| Advert    | - Email Validations<br/>- Flyers to hand out<br/>- Social Media Post | - Spotify (invitation-only access and word-of-mouth advertising) |
+| Explainer | - Explainer Video<br/>- Infographic<br/>- Social Media Post          | - Dropbox (used video to gauge interest)                         |
 
 ### Making it
 You may need to create something closer to a real product / prototype. e.g.:
 
-| What          | Examples                                                           |
-|---------------|--------------------------------------------------------------------|
-| Crowdsourcing | - Asking to put money behind you / your idea                       |
-| Landing Page  | - A place for people to go to show interest and sign up            |
-| Shell App     | - Example app that may not work 100%. (these can even be sketches) |
+| What          | Examples                                                           | Example Companies                                   |
+|---------------|--------------------------------------------------------------------|-----------------------------------------------------|
+| Crowdsourcing | - Asking to put money behind you / your idea                       | - Oculus Rift (raised funds on Kickstarter)         |
+| Landing Page  | - A place for people to go to show interest and sign up            | - Groupon (used landing page to validate idea)      |
+| Shell App     | - Example app that may not work 100%. (these can even be sketches) | - Zappos (started with a website without inventory) |
+
+Each of these companies used the MVP strategy listed to test their market viability and refine their product ideas before fully committing to development.
+
 
 ### Sketching
 Sketching on the paper templates provided or use prototyping tools to design and wireframe, then it's a simple few clicks to make everything interactive.
@@ -327,6 +380,7 @@ Sketching on the paper templates provided or use prototyping tools to design and
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
 
 ## Test your design
+### Checklist
 Share your prototype and gain invaluable feedback from the people that matter.
 - [ ] Test your prototype with your end user or simply others in the room
     - [ ] Give them the sales [pitch](#create-an-elevator-pitch) before using the prototype!
@@ -334,6 +388,51 @@ Share your prototype and gain invaluable feedback from the people that matter.
 - [ ] Observe your user's reactions and behaviour with the prototype without giving instructions.
     - [ ] Identify where they hit issues or look confused
     - [ ] Gather feedback that can be used to iterate and improve the experience.
+
+
+## Going to market
+These are taken from "Marketing Made Simple" by Donald Miller and Dr. J.J. Peterson which offers a clear and actionable guide to improving your marketing strategy. Here's a summary of the key actionable points and steps from the book:
+
+### Steps to Market
+1. Clarify the message (by understanding your user's and their needs)
+1. Create a one liner (by creating an elevator pitch)
+1. Wireframe landing page (bring message to light on a clear and compelling website)
+1. Lead generating artifact (generate leads by creating something potential clients want for free e.g. a PDF, e-books, webinars, or free trials, and ensure that you capture emails in return)
+1. Email campaign (Earn the trust of the people who gave you their emails, by sending them helpful emails that practically solve their  problems)
+
+### Details on how to go to Market
+1. **Build a Sales Funnel**: Focus on creating a structured sales funnel that guides potential customers from awareness to purchase.
+   - **Awareness**: Use advertising and content to generate interest.
+   - **Interest**: Engage customers with valuable information and establish trust.
+   - **Decision**: Offer compelling reasons to choose your product.
+   - **Action**: Make the buying process simple and clear.
+1. **Clarify Your Message**: Develop a clear, engaging, and simple message that resonates with your audience.
+   - **Identify the Problem**: Address the specific problems your product solves.
+   - **Present a Solution**: Clearly state how your product is the solution.
+   - **Define a Plan**: Outline steps for customers to engage with your product.
+1. **Build a One-Liner**: Develop a concise and memorable statement that summarizes what you offer.
+   - **Problem**: Start with the problem you solve.
+   - **Solution**: State your solution.
+   - **Result**: End with the positive result of using your product.
+1. **Create a Wireframed Website**: Design a simple, user-friendly website that clearly communicates your message.
+   - **Clear Headline**: Communicate your value proposition instantly.
+   - **Direct Call-to-Actions**: Guide users to take specific actions.
+   - **Testimonials**: Include customer success stories.
+1. **Create a Lead Generator**: Develop resources like e-books, webinars, or free trials to attract leads.
+   - **Offer Value**: Ensure the lead generator provides real value.
+   - **Capture Information**: Use the opportunity to gather contact information.
+1. **Nurture Leads with Email Campaigns**: Develop email campaigns to build relationships with leads.
+   - **Welcome Email**: Send a warm introduction and set expectations.
+   - **Drip Campaigns**: Regularly provide valuable content and soft pitches.
+   - **Strong Call-to-Actions**: Encourage readers to take the next step.
+1. **Implement a Content Plan**: Regularly produce and share content that is relevant to your audience.
+   - **Blogging**: Write articles that solve customer problems or provide insights.
+   - **Social Media**: Share content that engages and grows your audience.
+   - **SEO**: Optimize content for search engines to increase visibility.
+1. **Track and Optimize**: Regularly review analytics to understand what works and refine your strategy accordingly.
+
+By following these steps, you can create a more effective and targeted marketing strategy that resonates with your audience and drives sales.
+
 
 ### Evaluate your prototype
 |                                                                            |                                     |                                           |
@@ -359,9 +458,16 @@ Share your prototype and gain invaluable feedback from the people that matter.
 
 
 ## Next Steps
-Decide on the best ideas (don't be afraid to mix and match). Lets build a [One-page Business Plan](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/00_one_page_business_plan.md)
 
-#### Take the elevator pitch to the next level to create a story:
+### Hook Phase by Experience Phase: Process matrix
+| Hook Phase   | Discovery (Why & First Use)             ↓ | On-boarding (Tutorial)  ↓                 | Scaffolding (Growth)                    ↓ | Endgame (Ownership)             ↓ |
+|--------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|------------------------------|
+| Trigger    ↓ | _[Prompt Desired Action]_                 | _[Prompt Desired Action]_                 | _[Prompt Desired Action]_                 | _[Prompt Desired Action]_              |
+| Action     ↓ | _[Simplest behaviour]_                    | _[Simplest behaviour]_                    | _[Simplest behaviour]_                    | _[Simplest behaviour]_                   |
+| Reward     ↓ | _Fulfilling but, Leave User Wanting More_ | _Fulfilling but, Leave User Wanting More_ | _Fulfilling but, Leave User Wanting More_ | _Fulfilling but, Leave User Wanting More_ |
+| Investment ↓ | _Retain User_                             | _Retain User_                             | _Retain User_                             | _Retain User_                         |
+
+### Take the elevator pitch to the next level to create a story:
 1. Start with the problem you help overcome (more generic situation/framing)
 1. Make the problem even worse (specific, personal and emotional hook)
 1. Position the company or solution/product as the resolution (what you offer)
@@ -371,5 +477,42 @@ Your storyline becomes the **“why”** for the team and client
 - Reference the storyline in each phase to make sure you are addressing the problem
 - This story can be used in Advertising and speeches alike.
 
+### Rewards:
+#### Should Not Always be Money / Stuff
+- Rewards shift focus from intrinsic to extrinsic 
+- Meaning that the Reward = reason for activity
+- Therefore If reward is stopped;
+    - Quality/Engagement drops
+    - Interest drops
+> Solution Unexpected reward, not say when or why, this shows appreciation and shows recognition.
+
+#### Reward Types
+| Reward | Cost                          | Brief Explanation                                                    |
+|--------|-------------------------------|----------------------------------------------------------------------|
+| Status | Cheap / Easy                  | Make Cool                                                            |
+| Access | Cheap / Safe / Easy           | Access to something others don't have                                |
+| Power  | Cheap / Expensive / Dangerous | Ability to do something that others can’t - earned and more official |
+| Stuff  | Expensive / Hard              | Things you get - Can be Digital                                      |
+
+#### Rewards That Specific User Motivation Respond Well To
+| Reward Type | Core Drive Link |
+|-------------|-----------------|
+| Fixed Action Rewards (Earned Lunch) | - Development & Accomplishment,<br/>- Ownership & Possession,<br/>- Scarcity & Impatience,<br/>- Empowerment of Creativity & Feedback |
+| Random Rewards (Mystery Box) | - Unpredictability & Curiosity |
+| Sudden Rewards (Easter Eggs) | - Unpredictability & Curiosity,<br/>- Epic Meaning & Calling,<br/>- Ownership & Possession,<br/>- Empowerment of Creativity& Feedback ,<br/>- Social Influence & Relatedness |
+| Rolling Rewards (Lottery) / Rolling Penalties (or Russian Roulette) | - Loss & Avoidance |
+| Social Treasure (Gifting) | - Social Influence & Relatedness,<br/>- Ownership & Possession,<br/>- Empowerment of Creativity & Feedback |
+| Prize Pacing (Collection Set) | - Ownership & Possession, <br/>- Scarcity & Impatience, <br/>- Development & Accomplishment, <br/>- Loss & Avoidance, <br/>- Unpredictability & Curiosity, <br/>- Social Influence & Relatedness |
+
+| Hook Phase   | Discovery (Why & First Use) | On-boarding (Tutorial) | Scaffolding (Growth)                        | Endgame (Ownership)                  |
+|--------------|-----------------------------|------------------------|---------------------------------------------|--------------------------------------|
+| Status       |                             |                        | - Collection Set<br/>- Fixed Action Rewards | - Fixed Action Rewards               |
+| Access       | - Gifting                   | - Fixed Action Rewards | - Fixed Action Rewards                      | - Fixed Action Rewards<br/>- Gifting |
+| Power        |                             |                        |                                             | - Fixed Action Rewards               |
+| Stuff        | - Mystery Box<br/>- Lottery | - Collection Set       | - Mystery Box<br/>- Sudden Rewards<br/>- Collection Set<br/>- Lottery                     |                     |
+
 ### Additional Points
 - [...]
+
+### One-Page Business Plan
+Decide on the best ideas (don't be afraid to mix and match). Lets build a [One-page Business Plan](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/00_one_page_business_plan.md)
