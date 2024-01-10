@@ -142,9 +142,9 @@ The 4+1 Architectural View Model is a framework for describing the architecture 
 **Objective:** Translate the identified components and interactions into specific, actionable features.
    - Feature list with detailed descriptions
 
-| Categoriesed | Feature No # | Feature Group /Module | Feature Name           | Description                 | Calculation (As Required)   |
-|:------------:|--------------|-----------------------|------------------------|-----------------------------|-----------------------------|
-| [ ]          | feat-....    | ....                  | ....                   | ....                        | ....                        |
+| Categoriesed | Feature No # | Feature Group /Module | Feature Name           | Description                 | Calculation (As Required)   | User Story           |
+|:------------:|--------------|-----------------------|------------------------|-----------------------------|-----------------------------|----------------------|
+| [ ]          | feat-....    | ....                  | ....                   | ....                        | ....                        | ....                 |
 
 
    - Prioritization Criteria:
@@ -195,6 +195,7 @@ The 4+1 Architectural View Model is a framework for describing the architecture 
 | Feature No#:              | ...                                                                                           |
 | Feature Group:            | ...                                                                                           |
 | Feature Name:             | ...                                                                                           |
+| User Story:               | As [persona/user_type], I want [what?/goal?] so that [why?/because?].                         |
 | Process Flow Step:        | ...                                                                                           |
 | Deadline:                 | ...                                                                                           |	
 | Feature Difficulty:       | ...                                                                                           |
@@ -207,6 +208,7 @@ The 4+1 Architectural View Model is a framework for describing the architecture 
 | Output:                   | ...                                                                                           |
 | Exposure Point:           | ...                                                                                           |
 | Error Handling:           | ...                                                                                           |
+| Permissions/Roles/Right:  | ...                                                                                           |
 | Performance Expectations: | ...                                                                                           |
 | Acceptance Criteria:      | ...                                                                                           |
 | Can this be simplified?   | ___ (Yes/No), <br/> How if yes:___________________________________________                    |
