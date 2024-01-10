@@ -66,16 +66,30 @@
 #### Comments and Feedback:
 - [Space for any comments or feedback from the reviewers and signatories]
 
-### High-Level Process Flow:
+### High-Level Process Flowchart:
+The flowchart contains several task flows. Users will take different steps for different conditions (positive and negative flows if possible).
    - Detailed logical view with diagrams
    - Description of the 4+1 architectural view
    - Narratives for each high-level process
 ```mermaid
   graph TD;
-      A[Master Branch] -->|Merged From| C[Hotfix Branches];
-      A -->|Merged From| D[Release Branches];
+    A[Start] --> B{Condition Check};
+    B -->|Positive Flow| C[Task 1: Data Collection];
+    B -->|Negative Flow| D[Task 2: Error Handling];
+    C --> E[Task 3: Data Processing];
+    D --> F[Task 4: Log Error];
+    E --> G[Task 5: Data Visualization];
+    F --> H[End Process];
+    G --> I{Data Quality Check};
+    I -->|Sufficient| J[Task 6: Data Storage];
+    I -->|Insufficient| K[Task 7: Data Refinement];
+    J --> L[End Process];
+    K --> C;
 
-      B[Develop Branch] -->|Branching Off| A;
+    classDef positive fill:#9f6,stroke:#333,stroke-width:2px;
+    classDef negative fill:#f99,stroke:#333,stroke-width:2px;
+    class C,E,G,J positive;
+    class D,F,K negative;
 ```
 #### Comments and Feedback:
 - [Space for any comments or feedback from the reviewers and signatories]
