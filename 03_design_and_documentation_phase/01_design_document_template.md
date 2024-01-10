@@ -164,25 +164,24 @@ The 4+1 Architectural View Model is a framework for describing the architecture 
 #### Achievable
 > *Critical tasks/Quick win/Easy/Valuable*
 
-| Phase   | Feature No # | Feature | Diff    | Value | Cost  | Risk  | Priority              | Reason for Categorization |
-|---------|--------------|---------|---------|-------|-------|-------|-----------------------|---------------------------|
-| ....    | feat-....    | ....    | ....    | ..    | ..    | ..    | Value / (Cost + Risk) | ...                       |
+| Phase   | Feature No # | Feature | Diff    | Value | Cost  | Risk  | Priority              | Reason for Categorization | Dependent on Features |
+|---------|--------------|---------|---------|-------|-------|-------|-----------------------|---------------------------|-----------------------|
+| ....    | feat-....    | ....    | ....    | ..    | ..    | ..    | Value / (Cost + Risk) | [...]                     | - [...]<br/>- [...]   |
 
 #### Nice to have
 > *If Enough Time/It would be really cool if*
 - Consider moving these to the parking lot as the parkinglot is reviewed more frequemently and after each phase
 
-| Phase   | Feature No # | Feature | Diff    | Value | Cost  | Risk  | Priority              | Reason for Categorization |
-|---------|--------------|---------|---------|-------|-------|-------|-----------------------|---------------------------|
-| ....    | feat-....    | ....    | ....    | ..    | ..    | ..    | Value / (Cost + Risk) | ...                       |
-
+| Phase   | Feature No # | Feature | Diff    | Value | Cost  | Risk  | Priority              | Reason for Categorization | Dependent on Features |
+|---------|--------------|---------|---------|-------|-------|-------|-----------------------|---------------------------|-----------------------|
+| ....    | feat-....    | ....    | ....    | ..    | ..    | ..    | Value / (Cost + Risk) | [...]                     | - [...]<br/>- [...]   |
 #### Not feasible
 > *Too Expensive/Not Enough Time/Not Valuable Enough*
 - Consider moving these to the parking lot as the parkinglot is reviewed more frequemently and after each phase
 
-| Phase   | Feature No # | Feature | Diff    | Value | Cost  | Risk  | Priority              | Reason for Categorization |
-|---------|--------------|---------|---------|-------|-------|-------|-----------------------|---------------------------|
-| ....    | feat-....    | ....    | ....    | ..    | ..    | ..    | Value / (Cost + Risk) | ...                       |
+| Phase   | Feature No # | Feature | Diff    | Value | Cost  | Risk  | Priority              | Reason for Categorization | Dependent on Features |
+|---------|--------------|---------|---------|-------|-------|-------|-----------------------|---------------------------|-----------------------|
+| ....    | feat-....    | ....    | ....    | ..    | ..    | ..    | Value / (Cost + Risk) | [...]                     | - [...]<br/>- [...]   |
 
 #### Comments and Feedback:
 - [Space for any comments or feedback from the reviewers and signatories]
@@ -191,27 +190,27 @@ The 4+1 Architectural View Model is a framework for describing the architecture 
 ### Feature Detail Requirements:
 > Feature Detail Requirements describe each feature or capability a software program, product, or system should have. These requirements clarify each feature's purpose, behaviour, and interactions.
 
-| Action                    | Details                                                                                     |
-|---------------------------|---------------------------------------------------------------------------------------------|
-| Feature No#:              | ...                                                                                         |
-| Feature Group:            | ...                                                                                         |
-| Feature Name:             | ...                                                                                         |
-| Process Flow Step:        | ...                                                                                         |
-| Deadline:                 | ...                                                                                         |	
-| Feature Difficulty:       | ...                                                                                         |
-| Feature Priority:         | ...                                                                                         |	
-| Feature Description:      | ...                                                                                         |
-| Dependencies:             | - Data [ ] <br/> - Features [ ] <br/> - Systems [ ] - Infrastructure [ ] <br/> - People [ ] |
-| Constraints:	             | - Data [ ] <br/> - Systems [ ] - Infrastructure [ ] <br/> - People [ ]                      |
-| Inputs:	                | ...                                                                                         |
-| Process/User Steps:       | ...                                                                                         |
-| Output:                   | ...                                                                                         |
-| Exposure Point:           | ...                                                                                         |
-| Error Handling:           | ...                                                                                         |
-| Performance Expectations: | ...                                                                                         |
-| Acceptance Criteria:      | ...                                                                                         |
-| Can this be simplified?   | ___ (Yes/No), <br/> How if yes:___________________________________________                  |
-| Need more information?    | ___ (Yes/No), <br/> What if yes:__________________________________________                  |
+| Action                    | Details                                                                                       |
+|---------------------------|-----------------------------------------------------------------------------------------------|
+| Feature No#:              | ...                                                                                           |
+| Feature Group:            | ...                                                                                           |
+| Feature Name:             | ...                                                                                           |
+| Process Flow Step:        | ...                                                                                           |
+| Deadline:                 | ...                                                                                           |	
+| Feature Difficulty:       | ...                                                                                           |
+| Feature Priority:         | ...                                                                                           |	
+| Feature Description:      | ...                                                                                           |
+| Dependencies:             | - Data [ ]<br/> - Features [ ]<br/> - Systems [ ]<br/> - Infrastructure [ ]<br/> - People [ ] |
+| Constraints:	             | - Data [ ]<br/> - Systems [ ]<br/> - Infrastructure [ ]<br/> - People [ ]                     |
+| Inputs:	                | ...                                                                                           |
+| Process/User Steps:       | ...                                                                                           |
+| Output:                   | ...                                                                                           |
+| Exposure Point:           | ...                                                                                           |
+| Error Handling:           | ...                                                                                           |
+| Performance Expectations: | ...                                                                                           |
+| Acceptance Criteria:      | ...                                                                                           |
+| Can this be simplified?   | ___ (Yes/No), <br/> How if yes:___________________________________________                    |
+| Need more information?    | ___ (Yes/No), <br/> What if yes:__________________________________________                    |
 
 ### Data Specification Detailing Overview:
 - Objective: [Outline the goals for detailing the data specifications at this project stage.]  
