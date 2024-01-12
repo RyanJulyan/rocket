@@ -25,6 +25,8 @@ Accelerate time-to-value using our repository of _Streamlined Client Delivery an
     * [Build Template](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/01_Build_template.md)
     * [Functional Testing Report Template](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/02_functional_testing_report_template.md)
     * [Change Request Template](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/03_change_request_template.md)
+    * [User Acceptance Testing (UAT) Session Agenda Template](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/04_uat_session_agenda_template.md)
+    * [UAT Feedback Template](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/05_uat_feedback_template.md)
 1. **Review & Handover Phase:** Document everything, train your clients on new features, and smoothly hand over the reins.
     * [Business Validation Report Template](https://github.com/RyanJulyan/rocket/blob/main/05_review_handover_phase/01_business_validation_report_template.md)
     * [Training Template](https://github.com/RyanJulyan/rocket/blob/main/05_review_handover_phase/02_training_template.md)
