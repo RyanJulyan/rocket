@@ -389,6 +389,24 @@ Share your prototype and gain invaluable feedback from the people that matter.
     - [ ] Identify where they hit issues or look confused
     - [ ] Gather feedback that can be used to iterate and improve the experience.
 
+### Review the prototype with users
+The Five Act Interview from the book "Sprint" by Jake Knapp is a structured process used in design sprints to extract high-quality feedback from interviews. Here are the detailed steps:
+1. **Friendly Welcome**: Start by building rapport with the interviewee. Make them feel comfortable and establish a friendly, conversational tone.
+    - **Example:** _"Hi [Interviewee's Name], thank you so much for joining us today! We really appreciate you taking the time to help us. How has your day been so far?"_
+1. **Context Questions**: Begin the interview with broad, open-ended questions about the interviewee's background, experiences, and opinions related to the topic at hand. This helps to understand their perspective and gather context.
+    - **Example:** _"Can you tell us a bit about your experience with [relevant topic or product]? What do you typically look for in a product like this? How often do you use such products or services?"_
+1. **Introduction to the Prototype**: Introduce the prototype or concept you're testing. Explain that you're looking for honest feedback and that the prototype is a work in progress. This sets the stage for the user to be open and candid.
+    - **Example:** _"We're excited to show you a prototype we've been working on. It's still in the early stages, so your honest thoughts are incredibly valuable to us. Remember, there are no right or wrong answers here. We're just interested in your perspective."_
+    - - **NB:** ensure you say: _"You are not being tested, the prototype is, so we are looking for honest feedback"_ and _"I did not work on this I am just here to understand your experiences"_ (as people are worried about offending people when giving feedback) 
+1. **Tasks and Open-Ended Questions**: Guide the interviewee through specific tasks using the prototype. Ask open-ended questions to encourage them to express their thoughts and feelings as they interact with the prototype. Observe their behavior and reactions.
+    - **Example:** _"How would you typically approach: [a specific task]?"_
+    - **Example during process:** _"What are you thinking about? What Comes to mind"_
+1. **Quick Debrief**: Conclude the interview by summarizing what was learned and asking any final questions. Thank the interviewee for their time and insights. This helps gather any last important thoughts and signals the end of the session.
+    - **Example:** _"Thank you for going through the prototype with us. To summarize, it sounds like you found [certain feature] quite useful but had some concerns about [another aspect]. Is there anything else you'd like to add? Again, thank you so much for your time and insights."_
+
+Throughout the interview, it's crucial to listen actively, take notes, and avoid leading the interviewee or biasing their responses. The aim is to gather genuine user reactions and insights. To avoid leading questions, build a script you can fall back on, and:
+- Focus on questions that start with: "who", "what", "when", "why", "where" and "how".
+- Avoid: "yes"/"no" questions and "multiple choice"/"options" questions
 
 ## Going to market
 These are taken from "Marketing Made Simple" by Donald Miller and Dr. J.J. Peterson which offers a clear and actionable guide to improving your marketing strategy. Here's a summary of the key actionable points and steps from the book:
