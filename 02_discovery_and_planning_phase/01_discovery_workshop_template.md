@@ -53,7 +53,7 @@ A process defined from a combination of [UX Design](https://www.uxdesigninstitut
    - [ ] [Business Metrics](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#business-metrics):
       - Detailed objectives with associated SMART metrics
       - Methodology for measurement and tracking
-   - [ ] High level [process flowchart](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#high-level-process-flowchart)
+   - [ ] High-level [process flowchart](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#high-level-process-flowchart)
       - Detailed logical view with diagrams
       - Description of the 4+1 architectural view
       - Narratives for each high-level process
@@ -65,9 +65,9 @@ A process defined from a combination of [UX Design](https://www.uxdesigninstitut
    - [ ] Introduction to design thinking principles
    - [ ] Team breakout sessions for idea generation
       - [ ] User research and expectations
-         - User a Types and personas
+         - User Types and personas
          - [User desired actions](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#user-types--desired-actions)
-         - Link user desired actions to busniess metrics
+         - Link user-desired actions to business metrics
       - [ ] Identify Internal Solutions
          - [ ] Successes
          - [ ] Failures
@@ -90,7 +90,7 @@ A process defined from a combination of [UX Design](https://www.uxdesigninstitut
       - Software limitations
       - system integration challenges
       - Security and compliance requirements
-   - Group discussion on technical feasibility of concepts
+   - Group discussion on the technical feasibility of concepts
    - Identifying potential technical risks and mitigation strategies
 
 #### 7. **Session 5: Data Considerations and Strategy**
