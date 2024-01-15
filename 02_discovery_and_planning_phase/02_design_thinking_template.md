@@ -35,9 +35,10 @@ The purpose of this profile is to frame all of your ideas and solutions around t
 - [ ] Imagine what your end-user spends their day doing. What do they prioritise? What do they care about? You can then use this to design something that fits into their daily routine.
 
 #### User Profile 
-| Name:       |[...]          | Age: |[...]| Gender:   |[...]   | Relationship Status: |[...]   |
-|-------------|---------------|------|-----|-----------|--------|----------------------|--------|
-| Occupation: |[...]          |      |     | Location: |[...]   |                      |        |
+| Name:           |[...]          | Age: |[...]| Gender:                 |[...]   | Relationship Status:           | [...]    |
+|-----------------|---------------|------|-----|-------------------------|--------|--------------------------------|----------|
+| **Occupation:** |[...]          |      |     | **Location:**           |[...]   | **Family:**                    | [...]    |
+| **Archetype:**  |[...]          |      |     | **Preferred Channels:** |[...]   | **Key distinguishing Factor:** | [...]    |
 
 | Personality map |     |     |     |     |     |          |
 |-----------------|-----|-----|-----|-----|-----|----------|
@@ -45,9 +46,12 @@ The purpose of this profile is to frame all of your ideas and solutions around t
 | Serious         | [ ] | [ ] | [X] | [ ] | [ ] | Fun      |
 | Generous        | [ ] | [ ] | [X] | [ ] | [ ] | Selfish  |
 | Academic        | [ ] | [ ] | [X] | [ ] | [ ] | Creative |
-
+### Pain Points
+- [...]
+- 
 ### Likes
 - [...]
+- 
 ### Goals
 - [...]
  
