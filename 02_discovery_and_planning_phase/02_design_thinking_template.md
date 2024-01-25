@@ -244,6 +244,22 @@ This forces you to apply the ideas you created to real user needs. How many solv
 Compare and update the [User desired actions](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#user-types--desired-actions)
 
 
+### Prioritization
+Focusing on High-Impact, Low-Effort tasks will move the needle more and yield better results. Consider which iteration features should fall into, refer to the table below.
+
+|                 | EFFORT | MEDIUM        | HIGH           | HIGH           |
+|-----------------|--------|---------------|----------------|----------------|
+| **IMPACT**      |        |               |                |                |
+| **HIGH**        |        | _Iteration 1_ | _Iteration 2_  | _Iteration 2_  |
+| **MEDIUM**      |        | _Iteration 1_ | _Iteration 3_  | _Iteration 3_  |
+| **LOW**         |        | _Iteration 1_ | _Deprioritise_ | _Deprioritise_ |
+
+### Will a customer still by this if you only built itteration 1?
+_Test iteration one features against your Persona to validate this question_
+- [ ] Yes 
+- [ ] No
+
+
 ### Evaluate each of your top 3 ideas; opportunity factors
 #### Idea: {idea_name}
 
