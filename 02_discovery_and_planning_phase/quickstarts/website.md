@@ -20,4 +20,4 @@ If you’re familiar with the Marketing Made Simple framework, most of these pie
 
 With a website plan in place, you’ll need to create a plan for obtaining leads.
 
-That’s where the lead generator comes in.
+That’s where the [lead generator](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/quickstarts/lead_generator.md) comes in.
