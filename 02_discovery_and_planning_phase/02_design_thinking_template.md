@@ -168,26 +168,26 @@ _Put yourself in the specific users shoes and answer the following questions_
 |-------------------------------------------------------------------------------|----------------------------------|
 | **What is something - that on a regular basis - you;**                                                           |
 | Complain about?                                                               | [...]                            |
-| Is missing?                                                                   | [...]                            |
-| Is too hard to get/find?                                                      | [...]                            |
-| Is too hard to use?                                                           | [...]                            |
-| I wish I could:                                                               | [...]                            |
-| It drives me crazy that:                                                      | [...]                            |
+| Believe is missing?                                                           | [...]                            |
+| Think is too hard to get/find?                                                | [...]                            |
+| Think is too hard to use?                                                     | [...]                            |
+| Think to yourself, "I wish I could":                                          | [...]                            |
+| Think it drives me crazy that:                                                | [...]                            |
+| Experience that a business did repeatedly that you got upset about?           | [...]                            |
+| Think could you solve that repeated problem so it doesn’t happen again?       | [...]                            |
 | **What is something - that on a regular basis - you hear others;**                                               |
 | Complain about?                                                               | [...]                            |
 | Say is missing?                                                               | [...]                            |
 | Say is too hard to get/find?                                                  | [...]                            |
 | Say is too hard to use?                                                       | [...]                            |
-| Why doesn’t someone:                                                          | [...]                            |
-| It’s annoying that:                                                           | [...]                            |
-| **What is something that others have repeatedly ask you to;**                                                    |
-| Do for them?                                                                  | [...]                            |
-| Give you them?                                                                | [...]                            |
-| Make for them?                                                                | [...]                            |
-| Could you please:                                                             | [...]                            |
-| You are the best at:                                                          | [...]                            |
-| What is something that a business did repeatedly that you got upset about?    | [...]                            |
-| How could you solve that problem so it doesn’t happen again?                  | [...]                            |
+| Say why doesn’t someone:                                                      | [...]                            |
+| Say it’s annoying that:                                                       | [...]                            |
+| **What is something that others have repeatedly ask you;**                                                       |
+| To do for them?                                                               | [...]                            |
+| To give you them?                                                             | [...]                            |
+| To make for them?                                                             | [...]                            |
+| If you could you please:                                                      | [...]                            |
+| To do, because; "You are the best at":                                        | [...]                            |
 | I hate it when:                                                               | [...]                            |
 | and I could solve it by:                                                      | [...]                            |
 | **What is something people frequently ask for/buy/use that relates to your talents?**                            |
