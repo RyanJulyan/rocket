@@ -215,6 +215,7 @@ _Put yourself in the specific users shoes and answer the following questions_
 
 
 #### Identify Internal Solutions list
+> **NOTE:** Internal systems can have negative connotations. You may need to facilitate the focus to be on learning over feelings. Be sensitive as people in the session could have worked on them and been hurt/burned during the process
 
 | **Project**            | **Description**                           | **Success**      | **Learning/Missing**            | **Useful to your new project**               |
 |------------------------|-------------------------------------------|------------------|---------------------------------|----------------------------------------------|
@@ -222,6 +223,7 @@ _Put yourself in the specific users shoes and answer the following questions_
 |[...]                   |[...]                                      | [ ]              |[...]                            |[...]                                         |
 
 #### Identify External Solutions list
+> **NOTE:** If your team/audience is inexperienced, give them this task as a task to do/prep before the session; when doing this live, people get nervous because many people will believe it is a competition to find the "best" solution. Removing this pressure results in better outcomes.
 
 | **Project**            | **Description**                           | **Likes**                            | **Dislikes**                            | **Useful to your new project**               |
 |------------------------|-------------------------------------------|--------------------------------------|-----------------------------------------|----------------------------------------------|
@@ -236,7 +238,7 @@ _Put yourself in the specific users shoes and answer the following questions_
 |[...]                            |[...]                |[...]                                      |[...]             |[...]              |[...]              |
 
 ### List the user needs and features
-This forces you to apply the ideas you created to real user needs. How many solve the problem your user is facing?
+Many people mistake ideas as features. Bring the ideas back to features by focusing on the user again. This forces you to apply the ideas you created to real user needs. How many solve the problem your user is facing?
 
 | Our target user needs to be able to:      | Therefore our design needs to be abke to: | Feature Name                              |    
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|
@@ -245,7 +247,7 @@ Compare and update the [User desired actions](https://github.com/RyanJulyan/rock
 
 
 ### Prioritization
-Focusing on High-Impact, Low-Effort tasks will move the needle more and yield better results. Consider which iteration features should fall into, refer to the table below.
+Focusing on High-Impact, Low-Effort tasks will move the needle more and yield better results. Consider which iteration features should fall into. Refer to the table below.
 
 |                 | EFFORT | MEDIUM        | HIGH           | HIGH           |
 |-----------------|--------|---------------|----------------|----------------|
@@ -254,7 +256,7 @@ Focusing on High-Impact, Low-Effort tasks will move the needle more and yield be
 | **MEDIUM**      |        | _Iteration 1_ | _Iteration 3_  | _Iteration 3_  |
 | **LOW**         |        | _Iteration 1_ | _Deprioritise_ | _Deprioritise_ |
 
-### Will a customer still by this if you only built itteration 1?
+### Will a customer still buy this if you only built iteration 1?
 _Test iteration one features against your Persona to validate this question_
 - [ ] Yes 
 - [ ] No
@@ -263,7 +265,7 @@ _Test iteration one features against your Persona to validate this question_
 ### Evaluate each of your top 3 ideas; opportunity factors
 #### Idea: {idea_name}
 
-#### Does it have: Enough demand?
+#### Does it have Enough demand?
 | **Question**                                  | **Answer**                    |
 |-----------------------------------------------|-------------------------------|
 | Who will buy & use this idea                  | [ ] Individual / [ ] Business |
@@ -417,9 +419,9 @@ The Five Act Interview from the book "Sprint" by Jake Knapp is a structured proc
     - **Example:** _"Can you tell us a bit about your experience with [relevant topic or product]? What do you typically look for in a product like this? How often do you use such products or services?"_
 1. **Introduction to the Prototype**: Introduce the prototype or concept you're testing. Explain that you're looking for honest feedback and that the prototype is a work in progress. This sets the stage for the user to be open and candid.
     - **Example:** _"We're excited to show you a prototype we've been working on. It's still in the early stages, so your honest thoughts are incredibly valuable to us. Remember, there are no right or wrong answers here. We're just interested in your perspective."_
-    - - **NB:** ensure you say: _"You are not being tested, the prototype is, so we are looking for honest feedback"_ and _"I did not work on this I am just here to understand your experiences"_ (as people are worried about offending people when giving feedback) 
-1. **Tasks and Open-Ended Questions**: Guide the interviewee through specific tasks using the prototype. Ask open-ended questions to encourage them to express their thoughts and feelings as they interact with the prototype. Observe their behavior and reactions.
-    - **Example:** _"How would you typically approach: [a specific task]?"_
+    - - **NB:** Ensure you say: _"You are not being tested. The prototype is, so we are looking for honest feedback"_ and _"I did not work on this; I am just here to understand your experiences"_ (as people are worried about offending people when giving feedback) 
+1. **Tasks and Open-Ended Questions**: Guide the interviewee through specific tasks using the prototype. Ask open-ended questions to encourage them to express their thoughts and feelings as they interact with the prototype. Observe their behaviour and reactions.
+    - **Example:** _"How would you typically approach [a specific task]?"_
     - **Example during process:** _"What are you thinking about? What Comes to mind"_
 1. **Quick Debrief**: Conclude the interview by summarizing what was learned and asking any final questions. Thank the interviewee for their time and insights. This helps gather any last important thoughts and signals the end of the session.
     - **Example:** _"Thank you for going through the prototype with us. To summarize, it sounds like you found [certain feature] quite useful but had some concerns about [another aspect]. Is there anything else you'd like to add? Again, thank you so much for your time and insights."_
@@ -553,4 +555,4 @@ Your storyline becomes the **“why”** for the team and client
 - [...]
 
 ### One-Page Business Plan
-Decide on the best ideas (don't be afraid to mix and match). Lets build a [One-page Business Plan](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/00_one_page_business_plan.md)
+Decide on the best ideas (don't be afraid to mix and match). That the ideas and build a [One-page Business Plan](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/00_one_page_business_plan.md)
