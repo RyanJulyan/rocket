@@ -161,12 +161,13 @@ The big, meaty problem you want to solve for your business, customer and end-use
 - [ ] Generate ideas that might be useful to the end-user.
     - The goal of ideation is to rapidly create enough simple and crazy ideas that apply to the problem so you can have a discussion to pick the best one.
 
+_Put yourself in the specific users shoes and answer the following questions._
 
-_Put yourself in the specific users shoes and answer the following questions_
+> NOTE: This section is optional and meant as a guide to help you and the audience think about daily challenges, identify common issues and spark ideas. They can also form the basis for questions to ask your users directly if you have access to them.
 
+#### What is something - that on a regular basis - you;
 | **Questions**                                                                 | **Answers**                      |
 |-------------------------------------------------------------------------------|----------------------------------|
-| **What is something - that on a regular basis - you;**                                                           |
 | Complain about?                                                               | [...]                            |
 | Believe is missing?                                                           | [...]                            |
 | Think is too hard to get/find?                                                | [...]                            |
@@ -175,14 +176,20 @@ _Put yourself in the specific users shoes and answer the following questions_
 | Think it drives me crazy that:                                                | [...]                            |
 | Experience that a business did repeatedly that you got upset about?           | [...]                            |
 | Think could you solve that repeated problem so it doesn’t happen again?       | [...]                            |
-| **What is something - that on a regular basis - you hear others;**                                               |
+
+#### What is something - that on a regular basis - you hear others;
+| **Questions**                                                                 | **Answers**                      |
+|-------------------------------------------------------------------------------|----------------------------------|
 | Complain about?                                                               | [...]                            |
 | Say is missing?                                                               | [...]                            |
 | Say is too hard to get/find?                                                  | [...]                            |
 | Say is too hard to use?                                                       | [...]                            |
 | Say why doesn’t someone:                                                      | [...]                            |
 | Say it’s annoying that:                                                       | [...]                            |
-| **What is something that others have repeatedly ask you;**                                                       |
+
+#### What is something that others have repeatedly ask you;
+| **Questions**                                                                 | **Answers**                      |
+|-------------------------------------------------------------------------------|----------------------------------|
 | To do for them?                                                               | [...]                            |
 | To give you them?                                                             | [...]                            |
 | To make for them?                                                             | [...]                            |
@@ -190,13 +197,16 @@ _Put yourself in the specific users shoes and answer the following questions_
 | To do, because; "You are the best at":                                        | [...]                            |
 | I hate it when:                                                               | [...]                            |
 | and I could solve it by:                                                      | [...]                            |
-| **What is something people frequently ask for/buy/use that relates to your talents?**                            |
+
+#### What is something people frequently ask for/buy/use that relates to your talents?
+| **Questions**                                                                 | **Answers**                      |
+|-------------------------------------------------------------------------------|----------------------------------|
 | People ask for:                                                               | [...]                            |
 | People buy:                                                                   | [...]                            |
 | People use:                                                                   | [...]                            |
 | and I am talented at:                                                         | [...]                            |
 
-### What problem are you trying to solve for your end user?
+### What is your problem, that are you trying to solve for your end user?
 - [...]
 ### Why is this important to your end user?
 - [...]
@@ -212,7 +222,6 @@ _Put yourself in the specific users shoes and answer the following questions_
 - [ ] Anchor everything to the user profile and problems you defined in the previous stages
 
 ### Ideas list
-
 
 #### Identify Internal Solutions list
 > **NOTE:** Internal systems can have negative connotations. You may need to facilitate the focus to be on learning over feelings. Be sensitive as people in the session could have worked on them and been hurt/burned during the process
@@ -231,7 +240,6 @@ _Put yourself in the specific users shoes and answer the following questions_
 |[...]                   |[...]                                      |[...]                                 |[...]                                    |[...]                                         |
 
 ### New Ideas list
-
 | **Rank**                        | **Idea**            | **Existing**                              | **Head**         | **Heart**         | **Cool Factor**   |
 |---------------------------------|---------------------|-------------------------------------------|------------------|-------------------|-------------------|
 |_Preference. Logical + Exciting_ | _What is the idea?_ | _Business already exists (Provide Links)_ | _Logical (1-10)_ | _Exciting (1-10)_ | _Wow Factor_      |
@@ -265,15 +273,26 @@ _Test iteration one features against your Persona to validate this question_
 ### Evaluate each of your top 3 ideas; opportunity factors
 #### Idea: {idea_name}
 
+#### Is this an established market?
+Only address these questions and details if you are going into an established market (limited growth potential)
+| **Question**                                                                                 | **Answer**       |
+|----------------------------------------------------------------------------------------------|------------------|
+| Do you have **10x** more **features** than your competitors?                                 | [ ] Yes / [ ] No |
+| Do you have **10x** more **availablity** than your competitors?                              | [ ] Yes / [ ] No |
+| Do you have **10x** cheaper **pricepoints** than your competitors?                           | [ ] Yes / [ ] No |
+| Is at least one of the above true? _(if not consider another idea in an established market)_ | [ ] Yes / [ ] No |
+
 #### Does it have Enough demand?
-| **Question**                                  | **Answer**                    |
-|-----------------------------------------------|-------------------------------|
-| Who will buy & use this idea                  | [ ] Individual / [ ] Business |
-| Where are they normally / already (location)? | [...]                         |
-| Where will they get it from (location)?       | [...]                         |
-| When will they need it?                       | [...]                         |
-| When will they buy it?                        | [...]                         |
-| How many people / companies will buy it?      | [...]                         |
+| **Question**                                                  | **Answer**                    |
+|---------------------------------------------------------------|-------------------------------|
+| Who will buy & use this idea                                  | [ ] Individual / [ ] Business |
+| Where are they normally / already (location)?                 | [...]                         |
+| Who will be the first client you contact? _(be specific)_     | Name:[...]<br/>Email:[...]    |
+| Who will be a pivital client if you had them? _(be specific)_ | Name:[...]<br/>Email:[...]    |
+| Where will they get it from (location)?                       | [...]                         |
+| When will they need it?                                       | [...]                         |
+| When will they buy it?                                        | [...]                         |
+| How many people / companies will buy it?                      | [...]                         |
 
 #### Do you have the expertise?
 | **Question**                                                                           | **Answer**           |
