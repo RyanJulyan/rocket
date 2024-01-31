@@ -13,4 +13,4 @@ That’s it!
 
 So, next time someone asks you what you do, give them your one-liner. This is an easy way to get them interested in what you do.
 
-If they’re interested, you can direct them to your website.
+If they’re interested, you can direct them to your [website](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/quickstarts/website.md).
