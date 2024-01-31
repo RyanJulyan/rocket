@@ -249,7 +249,7 @@ Compare and update the [User desired actions](https://github.com/RyanJulyan/rock
 ### Prioritization
 Focusing on High-Impact, Low-Effort tasks will move the needle more and yield better results. Consider which iteration features should fall into. Refer to the table below.
 
-|                 | EFFORT | MEDIUM        | HIGH           | HIGH           |
+|                 | EFFORT | LOW           | MEDIUM         | HIGH           |
 |-----------------|--------|---------------|----------------|----------------|
 | **IMPACT**      |        |               |                |                |
 | **HIGH**        |        | _Iteration 1_ | _Iteration 2_  | _Iteration 2_  |
