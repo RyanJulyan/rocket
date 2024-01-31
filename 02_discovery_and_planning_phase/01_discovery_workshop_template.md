@@ -1,5 +1,5 @@
 # Discovery Workshop Template
-A process defined from a combination of [UX Design](https://www.uxdesigninstitute.com/blog/ux-design-process/), [Design Thinking](https://www.thinkwithgoogle.com/future-of-marketing/creativity/design-thinking-principles/), the book [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp et al](https://www.amazon.com/Sprint-audiobook/dp/B01BXB1B7K)
+A process defined from a combination of [UX Design](https://www.uxdesigninstitute.com/blog/ux-design-process/), [Design Thinking](https://www.thinkwithgoogle.com/future-of-marketing/creativity/design-thinking-principles/), the book [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp et al](https://www.amazon.com/Sprint-audiobook/dp/B01BXB1B7K), the book [Marketing Made Simple: A Step-by-Step StoryBrand Guide for Any Business by Donald Miller et al](https://www.amazon.com/Marketing-Made-Simple-Step-Step/dp/B07TTTYZRK), the book [Hooked: How to Build Habit-Forming Products by Nir Eyal, Ryan Hoover](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/B00HZY1N0K), the The [Actionable Gamification: Beyond Points, Badges, and Leaderboards by Yu-kai Chou](https://www.amazon.com/Actionable-Gamification-audiobook/dp/B06XSWX7BN)
 
 ## {{project_name}}:
 
