@@ -450,22 +450,22 @@ These are taken from "Marketing Made Simple" by Donald Miller and Dr. J.J. Peter
    - **Identify the Problem**: Address the specific problems your product solves.
    - **Present a Solution**: Clearly state how your product is the solution.
    - **Define a Plan**: Outline steps for customers to engage with your product.
-1. **Build a One-Liner**: Develop a concise and memorable statement that summarizes what you offer.
+1. [**Build a One-Liner**](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/quickstarts/the_one_liner.md): Develop a concise and memorable statement that summarizes what you offer.
    - **Problem**: Start with the problem you solve.
    - **Solution**: State your solution.
    - **Result**: End with the positive result of using your product.
-1. **Create a Wireframed Website**: Design a simple, user-friendly website that clearly communicates your message.
+1. [**Create a Wireframed Website**](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/quickstarts/website.md): Design a simple, user-friendly website that clearly communicates your message.
    - **Clear Headline**: Communicate your value proposition instantly.
    - **Direct Call-to-Actions**: Guide users to take specific actions.
    - **Testimonials**: Include customer success stories.
-1. **Create a Lead Generator**: Develop resources like e-books, webinars, or free trials to attract leads.
+1. [**Create a Lead Generator**](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/quickstarts/lead_generator.md): Develop resources like e-books, webinars, or free trials to attract leads.
    - **Offer Value**: Ensure the lead generator provides real value.
    - **Capture Information**: Use the opportunity to gather contact information.
-1. **Nurture Leads with Email Campaigns**: Develop email campaigns to build relationships with leads.
+1. [**Nurture Leads with Email Campaigns**](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/quickstarts/automated_emails.md): Develop email campaigns to build relationships with leads.
    - **Welcome Email**: Send a warm introduction and set expectations.
    - **Drip Campaigns**: Regularly provide valuable content and soft pitches.
    - **Strong Call-to-Actions**: Encourage readers to take the next step.
-1. **Implement a Content Plan**: Regularly produce and share content that is relevant to your audience.
+1. **Implement a Content Plan**: Regularly produce and share relevant content to your audience.
    - **Blogging**: Write articles that solve customer problems or provide insights.
    - **Social Media**: Share content that engages and grows your audience.
    - **SEO**: Optimize content for search engines to increase visibility.
