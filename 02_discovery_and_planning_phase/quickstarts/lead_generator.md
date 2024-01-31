@@ -21,4 +21,4 @@ The AIDA marketing model is a cornerstone of modern marketing, to the extent tha
 
 But a PDF, webinar, infographic, template or video series is a wonderful place to start with a lead generator, especially if you don’t have much experience creating one.
 
-Once you have acquired a lead, then it’s time to warm them up to your brand with automated emails.
+Once you have acquired a lead, then it’s time to warm them up to your brand with [automated emails](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/quickstarts/automated_emails.md).
