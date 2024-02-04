@@ -1,8 +1,6 @@
 # Website
 With your one-liner set, now it’s time to set your sights on some of your marketing assets. Beginning with your website.
 
-Donald Miller and Dr. J.J. Peterson’s Marketing Made Simple, suggests using a website wireframing process.
-
 However, if this is your first time doing this, you may need to know where to start with the website wireframe.
 
 Below is the suggested checklist to get you kick-started:
@@ -22,7 +20,7 @@ Below is the suggested checklist to get you kick-started:
 - [ ] **Junk Drawer**
   - Any additional links or information about your company (Careers Page, Terms and Conditions, FAQs, Blog, etc).
 
-If you’re familiar with the Marketing Made Simple framework, most of these pieces will look familiar to you if not, do not feel pressured into including all parts e.g. Divisions of Your Company if you do not have them. This is your website, let this help you, not control you. However, If you run a large company with many divisions, you’ll be happy to see that you can fit them onto your website's home page.
+Do not feel pressured into including all parts e.g. Divisions of Your Company if you do not have them. This is your website, let this help you, not control you. However, If you run a large company with many divisions, you’ll be happy to see that you can fit them onto your website's home page.
 
 With a website plan in place, you’ll need to create a plan for obtaining leads.
 
