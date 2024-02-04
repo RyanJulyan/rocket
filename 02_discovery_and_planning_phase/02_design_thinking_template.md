@@ -375,7 +375,7 @@ How to Build Habit: [HOOKED by Nir Eyal | Core Message](https://www.youtube.com/
 | **Trigger**    | What are the user's itch/internal triggers? What is the external trigger that prompts the next action? | _[How will you prompt the user to do the desired action?]_ |
 | **Action**     | What is the simplest behaviour done in anticipation of reward?                                         | _[What is the simplest behaviour/action your could do?]_   |
 | **Reward**     | Is the reward fulfilling but leaves the user wanting more?                                             | _[What could you give them that would be fulfilling but, leave the user wanting more?]_ |
-| **Investment** | How do you retain your veterans?                                                                       | _[What does your user want to keep getting from you that will/how can you retain the user?]_ |
+| **Investment** | How do you retain your veterans?                                                                       | _[What does your user want to keep getting from you that will make them come back/how can you retain the user?]_ |
 
 > If your reward or investment can create another trigger, then you create a loop
 
