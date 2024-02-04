@@ -251,6 +251,7 @@ Many people mistake ideas as features. Bring the ideas back to features by focus
 | Our target user needs to be able to:      | Therefore our design needs to be abke to: | Feature Name                              |    
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|
 |[...]                                      |[...]                                      |[...]                                      |
+
 Compare and update the [User desired actions](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#user-types--desired-actions)
 
 
