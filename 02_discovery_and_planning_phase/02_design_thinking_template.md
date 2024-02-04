@@ -283,17 +283,28 @@ Only address these questions and details if you are going into an established ma
 | Do you have **10x** cheaper **pricepoints** than your competitors?                           | [ ] Yes / [ ] No |
 | Is at least one of the above true? _(if not consider another idea in an established market)_ | [ ] Yes / [ ] No |
 
-#### Does it have Enough demand?
-| **Question**                                                  | **Answer**                    |
-|---------------------------------------------------------------|-------------------------------|
-| Who will buy & use this idea                                  | [ ] Individual / [ ] Business |
-| Where are they normally / already (location)?                 | [...]                         |
-| Who will be the first client you contact? _(be specific)_     | Name:[...]<br/>Email:[...]    |
-| Who will be a pivital client if you had them? _(be specific)_ | Name:[...]<br/>Email:[...]    |
-| Where will they get it from (location)?                       | [...]                         |
-| When will they need it?                                       | [...]                         |
-| When will they buy it?                                        | [...]                         |
-| How many people / companies will buy it?                      | [...]                         |
+#### How do you distinguish yourself from your competitors?
+> Remember that the uniqueness of a product/service offering is not all there is! Consider the following aspects on how you might distinguish yourself and define your _Discernable Advantage_: **Service:**, **Pricing:**, **Quality:**, **Functionality:**, **Focus:**
+
+| **Question**                                                                                  | **Answer**       |
+|-----------------------------------------------------------------------------------------------|------------------|
+| **Service:** What you provided beyond your product, Support, training and assistance          | [...]            |
+| **Pricing:** What is your price and pricing strategy relative to the rest of the market?      | [...]            |
+| **Quality:** What is your performance with respect to; _Errors ,Omissions, failures, returns_ | [...]            |
+| **Functionality:** What is the number and depth of features compared to competitors?          | [...]            |
+| **Focus:** What is your _Niche_? Consider demographic, geography, packing or delivery         | [...]            |                                 
+
+#### Does it have enough demand?
+| **Question**                                                   | **Answer**                    |
+|----------------------------------------------------------------|-------------------------------|
+| Who will buy & use this idea                                   | [ ] Individual / [ ] Business |
+| Where are they normally / already (location)?                  | [...]                         |
+| Who will be the first client you contact? _(be specific)_      | Name:[...]<br/>Email:[...]    |
+| Who would be a pivotal client if you had them? _(be specific)_ | Name:[...]<br/>Email:[...]    |
+| Where will they get it from (location)?                        | [...]                         |
+| When will they need it?                                        | [...]                         |
+| When will they buy it?                                         | [...]                         |
+| How many people/companies will buy it?                         | [...]                         |
 
 #### Do you have the expertise?
 | **Question**                                                                           | **Answer**           |
@@ -305,18 +316,18 @@ Only address these questions and details if you are going into an established ma
 | How much will it cost you to get their services?                                       | [...]                |
 
 #### What resources will you need to create & store the idea?
-| **Question**                                                                 | **Answer**       |
-|------------------------------------------------------------------------------|------------------|
-| Do you have the materials to produce the idea?                               | [ ] Yes / [ ] No |
-| Do you already have the equipement?                                          | [ ] Yes / [ ] No |
-| How much did it cost to buy the equipement?                                  | [...]            |
-| When will you need to repair/upgrade the equipement?                         | [...]            |
-| How much will it cost to repair/upgrade the equipement?                      | [...]            |
-| How much does it cost to run the equipement?                                 | [...]            |
-| Do you have enough budget/ money to: Buy this resource?                      | [ ] Yes / [ ] No |
-| Do you have enough budget/ money to: Repair / Upgrade this resource?         | [ ] Yes / [ ] No |
-| Do you have enough budget/ money to: Run this resource?                      | [ ] Yes / [ ] No |
-| Do you have enough budget/ money to: Buy materials to produce the resource?  | [ ] Yes / [ ] No |
+| **Question**                                                                      | **Answer**       |
+|-----------------------------------------------------------------------------------|------------------|
+| Do you have the materials to produce the idea?                                    | [ ] Yes / [ ] No |
+| Do you already have the equipment?                                                | [ ] Yes / [ ] No |
+| How much did it **cost** to **buy** the equipment?                                | [...]            |
+| **When** will you need to **repair/upgrade** the equipment?                       | [...]            |
+| How much will it **cost** to **repair/upgrade the equipment?**                    | [...]            |
+| How much does it **cost** to **run** the equipment?                               | [...]            |
+| Do you have enough **budget**/money to **Buy this resource?**                     | [ ] Yes / [ ] No |
+| Do you have enough **budget**/money to **Repair / Upgrade this resource?**        | [ ] Yes / [ ] No |
+| Do you have enough **budget**/money to **Run** this resource?                     | [ ] Yes / [ ] No |
+| Do you have enough **budget**/money to **Buy materials** to produce the resource? | [ ] Yes / [ ] No |
 
 #### Will this be profitable?
 | **Question**                                                                       | **Answer**       |
@@ -328,11 +339,11 @@ Only address these questions and details if you are going into an established ma
 | How much do your competitors sell it for?                                          | [...]            |
 | How much will you sell it for?                                                     | [...]            |
 | How many do you need to sell to break even?                                        | [...]            |
-| How many more people / companies do you have in the demand section?                | [...]            |
-| is it at least 10X (if not you may want to re-evaluate your idea / target market.) | [ ] Yes / [ ] No |
+| How many more people/companies do you have in the demand section?                  | [...]            |
+| is it at least 10X (if not, you may want to re-evaluate your idea/target market.)  | [ ] Yes / [ ] No |
 | How likely are you to be able to sell to double your break-even?                   | [...]%           |
-| Do you need additional resources to achievely double sales?                        | [...]            |
-| How much more will doubling sales cost?                                            | [...]            |
+| Do you need additional resources to double sales actively?                         | [...]            |
+| How much more will double sales cost?                                              | [...]            |
 
 #### What is your competitive advantage?
 | **Question**                                                                 | **Answer**       |
@@ -359,17 +370,20 @@ You need to be able to quickly and concisely tell people about your product/serv
 
 ### Hook Model
 How to Build Habit: [HOOKED by Nir Eyal | Core Message](https://www.youtube.com/watch?v=6Kz8NfntC6A)
-| Hook Phase | Brief Explanation                                                                           | Your Core Hook Phase |
-|------------|---------------------------------------------------------------------------------------------|----------------------|
-| Trigger    | What is users itch/internal trigger, What is the external trigger that prompts next action. | [...]                |
-| Action     | What is the simplest behaviour done in anticipation of reward.                              | [...]                |
-| Reward     | Is the reward fulfilling, but leaves user wanting more.                                     | [...]                |
-| Investment | How do you retain your veterans.                                                            | [...]                |
+| Hook Phase     | Brief Explanation                                                                                      | Your Core Hook Experience                                  |
+|----------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| **Trigger**    | What are the user's itch/internal triggers? What is the external trigger that prompts the next action? | _[How will you prompt the user to do the desired action?]_                              
+        |
+| **Action**     | What is the simplest behaviour done in anticipation of reward?                                         | _[What is the simplest behaviour/action your could do?]_                                
+        |
+| **Reward**     | Is the reward fulfilling but leaves the user wanting more?                                             | _[What could you give them that would be fulfilling but, leave the user wanting more?]_ 
+        |
+| **Investment** | How do you retain your veterans?                                                                       | _[What does your user want to keep getting from you that will/how can you retain the user?]_ |
 
 > If your reward or investment can create another trigger, then you create a loop
 
 ### Types of Prototypes / MVP's
-You do not have to create a 100% working product right away, first time. Start small and work your way up. Here are some examples of simple, easy and low budget MVP’s that you could apply to your idea, regardless of what your product is:
+You do not have to create a 100% working product right away the first time. You can start small and work your way up. Here are some examples of simple, easy and low budget MVPs that you could apply to your idea, regardless of what your product is:
 
 ### Faking it
 Not a real product. You can think of this as testing the idea without a prototype. e.g.:
@@ -381,7 +395,7 @@ Not a real product. You can think of this as testing the idea without a prototyp
 | Explainer | - Explainer Video<br/>- Infographic<br/>- Social Media Post          | - Dropbox (used video to gauge interest)                         |
 
 ### Making it
-You may need to create something closer to a real product / prototype. e.g.:
+You may need to create something closer to a real product/prototype. e.g.:
 
 | What          | Examples                                                           | Example Companies                                   |
 |---------------|--------------------------------------------------------------------|-----------------------------------------------------|
@@ -393,8 +407,8 @@ Each of these companies used the MVP strategy listed to test their market viabil
 
 
 ### Sketching
-Sketching on the paper templates provided or use prototyping tools to design and wireframe, then it's a simple few clicks to make everything interactive.
-- [ ] Just start building, don't get hung up on visuals
+Sketching on the paper templates provided or using prototyping tools to design and wireframe, then it's a simple few clicks to make everything interactive.
+- [ ] Just start building; don't get hung up on visuals
 - [ ] Don't spend too much time on one idea - move fast!
 - [ ] Design only the screens that matter for testing
 - [ ] Prototyping tools such as:
@@ -426,27 +440,27 @@ Sketching on the paper templates provided or use prototyping tools to design and
 Share your prototype and gain invaluable feedback from the people that matter.
 - [ ] Test your prototype with your end user or simply others in the room
     - [ ] Give them the sales [pitch](#create-an-elevator-pitch) before using the prototype!
-    - [ ] Don’t interrupt or try to take over, watch and learn!
+    - [ ] Don’t interrupt or try to take over. Watch and learn!
 - [ ] Observe your user's reactions and behaviour with the prototype without giving instructions.
     - [ ] Identify where they hit issues or look confused
     - [ ] Gather feedback that can be used to iterate and improve the experience.
 
 ### Review the prototype with users
 The Five Act Interview from the book "Sprint" by Jake Knapp is a structured process used in design sprints to extract high-quality feedback from interviews. Here are the detailed steps:
-1. **Friendly Welcome**: Start by building rapport with the interviewee. Make them feel comfortable and establish a friendly, conversational tone.
+1. **Friendly Welcome**: Build rapport with the interviewee. Could you make them feel comfortable and establish a friendly, conversational tone?
     - **Example:** _"Hi [Interviewee's Name], thank you so much for joining us today! We really appreciate you taking the time to help us. How has your day been so far?"_
 1. **Context Questions**: Begin the interview with broad, open-ended questions about the interviewee's background, experiences, and opinions related to the topic at hand. This helps to understand their perspective and gather context.
     - **Example:** _"Can you tell us a bit about your experience with [relevant topic or product]? What do you typically look for in a product like this? How often do you use such products or services?"_
 1. **Introduction to the Prototype**: Introduce the prototype or concept you're testing. Explain that you're looking for honest feedback and that the prototype is a work in progress. This sets the stage for the user to be open and candid.
-    - **Example:** _"We're excited to show you a prototype we've been working on. It's still in the early stages, so your honest thoughts are incredibly valuable to us. Remember, there are no right or wrong answers here. We're just interested in your perspective."_
+    - **Example:** _"We're excited to show you a prototype we've been working on. It's still early, so your honest thoughts are incredibly valuable to us. Remember, there are no right or wrong answers here. We're just interested in your perspective."_
     - - **NB:** Ensure you say: _"You are not being tested. The prototype is, so we are looking for honest feedback"_ and _"I did not work on this; I am just here to understand your experiences"_ (as people are worried about offending people when giving feedback) 
 1. **Tasks and Open-Ended Questions**: Guide the interviewee through specific tasks using the prototype. Ask open-ended questions to encourage them to express their thoughts and feelings as they interact with the prototype. Observe their behaviour and reactions.
     - **Example:** _"How would you typically approach [a specific task]?"_
     - **Example during process:** _"What are you thinking about? What Comes to mind"_
 1. **Quick Debrief**: Conclude the interview by summarizing what was learned and asking any final questions. Thank the interviewee for their time and insights. This helps gather any last important thoughts and signals the end of the session.
-    - **Example:** _"Thank you for going through the prototype with us. To summarize, it sounds like you found [certain feature] quite useful but had some concerns about [another aspect]. Is there anything else you'd like to add? Again, thank you so much for your time and insights."_
+    - **Example:** _"Thank you for reviewing the prototype with us. To summarize, it sounds like you found [certain feature] quite useful but had some concerns about [another aspect]. Is there anything else you'd like to add? Again, thank you so much for your time and insights."_
 
-Throughout the interview, it's crucial to listen actively, take notes, and avoid leading the interviewee or biasing their responses. The aim is to gather genuine user reactions and insights. To avoid leading questions, build a script you can fall back on, and:
+Throughout the interview, listening actively, taking notes, and avoiding leading the interviewee or biasing their responses is crucial. The aim is to gather genuine user reactions and insights. To avoid leading questions, build a script you can fall back on, and:
 - Focus on questions that start with: "who", "what", "when", "why", "where" and "how".
 - Avoid: "yes"/"no" questions and "multiple choice"/"options" questions
 
@@ -485,7 +499,7 @@ These are taken from "Marketing Made Simple" by Donald Miller and Dr. J.J. Peter
    - **Welcome Email**: Send a warm introduction and set expectations.
    - **Drip Campaigns**: Regularly provide valuable content and soft pitches.
    - **Strong Call-to-Actions**: Encourage readers to take the next step.
-1. **Implement a Content Plan**: Regularly produce and share relevant content to your audience.
+1. **Implement a Content Plan**: Regularly produce and share relevant content with your audience.
    - **Blogging**: Write articles that solve customer problems or provide insights.
    - **Social Media**: Share content that engages and grows your audience.
    - **SEO**: Optimize content for search engines to increase visibility.
@@ -520,12 +534,12 @@ By following these steps, you can create a more effective and targeted marketing
 ## Next Steps
 
 ### Hook Phase by Experience Phase: Process matrix
-| Hook Phase   | Discovery (Why & First Use)             ↓ | On-boarding (Tutorial)  ↓                 | Scaffolding (Growth)                    ↓ | Endgame (Ownership)             ↓ |
-|--------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|------------------------------|
-| Trigger    ↓ | _[Prompt Desired Action]_                 | _[Prompt Desired Action]_                 | _[Prompt Desired Action]_                 | _[Prompt Desired Action]_              |
-| Action     ↓ | _[Simplest behaviour]_                    | _[Simplest behaviour]_                    | _[Simplest behaviour]_                    | _[Simplest behaviour]_                   |
-| Reward     ↓ | _Fulfilling but, Leave User Wanting More_ | _Fulfilling but, Leave User Wanting More_ | _Fulfilling but, Leave User Wanting More_ | _Fulfilling but, Leave User Wanting More_ |
-| Investment ↓ | _Retain User_                             | _Retain User_                             | _Retain User_                             | _Retain User_                         |
+| Hook Phase   | Discovery (Why & First Use)               ↓ | On-boarding (Tutorial)  ↓                   | Scaffolding (Growth)                      ↓ | Endgame (Ownership)                       ↓ |
+|--------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Trigger    ↓ | _[Prompt Desired Action]_                   | _[Prompt Desired Action]_                   | _[Prompt Desired Action]_                   | _[Prompt Desired Action]_                   |
+| Action     ↓ | _[Simplest behaviour]_                      | _[Simplest behaviour]_                      | _[Simplest behaviour]_                      | _[Simplest behaviour]_                      |
+| Reward     ↓ | _[Fulfilling but, Leave User Wanting More]_ | _[Fulfilling but, Leave User Wanting More]_ | _[Fulfilling but, Leave User Wanting More]_ | _[Fulfilling but, Leave User Wanting More]_ |
+| Investment ↓ | _[Retain User]_                             | _[Retain User]_                             | _[Retain User]_                             | _[Retain User]_                             |
 
 ### Take the elevator pitch to the next level to create a story:
 1. Start with the problem you help overcome (more generic situation/framing)
