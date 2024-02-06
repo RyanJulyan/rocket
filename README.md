@@ -15,7 +15,7 @@ Accelerate time-to-value using our repository of _Streamlined Client Delivery an
     * [Team Assembly Template](https://github.com/RyanJulyan/rocket/blob/main/01_initiation_phase/02_team_assembly_template.md)
 1. **Discovery & Planning Phase:** Dive deep into project needs with immersive workshops and detailed design documents.
     * [Discovery Workshop Template](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/01_discovery_workshop_template.md)
-    * [Design Thinking Template](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/02_stratergy_thinking_template.md)
+    * [Strategy Thinking Template](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/02_stratergy_thinking_template.md)
     * [Design Thinking Template](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/03_design_thinking_template.md)
 1. **Design & Documentation Phase:** Define SMART business metrics, user analysis, and secure crucial approvals.
     * [One-page Business Plan](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/00_one_page_business_plan.md)
