@@ -3,7 +3,7 @@
 ## {{project_name}}:
 
 ## What is Strategic Thinking?
-Strategic thinking is a process that involves generating and applying unique business insights and opportunities to achieve competitive advantage. This type of thinking is essential for leaders and managers to navigate their organizations through the complexities of the market and to ensure long-term success. 
+Strategic thinking is a process that involves generating and applying unique business insights and opportunities to achieve competitive advantage. This type of thinking is essential for leaders and managers to navigate their organizations through the market's complexities and ensure long-term success. 
 
 by: **Identifying > Analyzing > Implementing and Monitoring**
 
@@ -21,7 +21,7 @@ by: **Identifying > Analyzing > Implementing and Monitoring**
 1. **Plan for Execution:**
     - Break down strategies into actionable plans. This includes setting short-term and long-term goals, determining resources needed, and assigning responsibilities.
 1. **Implement and Monitor:**
-    - Execute the strategic plan and monitor its progress. Be prepared to adapt as necessary based on feedback and changes in the environment.
+    - Execute the strategic plan and monitor its progress. Be prepared to adapt as needed based on feedback and changes in the environment.
 
 
 
@@ -59,7 +59,7 @@ From the SWOT analysis, identify themes or common areas that need strategic focu
 | [...]        | _LOW/Medium/High_ | _LOW/Medium/High_ | _LOW/Medium/High_ | [...]                 | [...]       | [...]                            | [...]                |
 
 ## Key Pillars
-Use the common themse to define, refine and prioritise the Key Pillers, in Short, Meduim and Long term pillars
+Use the common themes to define, refine and prioritise the Key pillars in Short-term, Medium-term and Long-term pillars.
 
 |                 | FEASIBILITY | LOW                  | MEDIUM                 | HIGH                  |
 |-----------------|-------------|----------------------|------------------------|-----------------------|
@@ -82,7 +82,7 @@ Use the common themse to define, refine and prioritise the Key Pillers, in Short
 |-------------------------------|----------------------------------------------------------|
 | **S**pecific:                 | [Define your specific goal here]                         |
 | **M**easurable:               | [How will you measure success?]                          |
-| **A**chievable & Feasibility: | What: _____________. How:_____________, Who:_____________|
+| **A**chievable & Feasibility: | What: _____________ How:______________ Who:_____________ |
 | **R**elevant:                 | [...]                                                    |
 | **T**ime-bound                | We will achieve [...] by [yyyy/mm/dd]                    |
 
@@ -91,7 +91,7 @@ Use the common themse to define, refine and prioritise the Key Pillers, in Short
 [Why is this objective crucial for your organization?]
 
 #### Expected Impact
-[What impact do you anticipate upon achieving this objective?]
+[What impact do you anticipate upon reaching this objective?]
 
 #### Timeline
 [What is important to know about the deadline for achieving this goal]
@@ -112,7 +112,7 @@ A vision statement outlines an organization's goals for the future and provides 
 ### Guidelines for Writing a Vision Statement:
 - **Be Concise**: A vision statement should be clear and succinct, typically one to two sentences long.
 - **Be Inspirational**: It should inspire employees, stakeholders, and customers by presenting an exciting future.
-- **Be Aspirational**: Aim high and describe a future that's better than the current state.
+- **Be Aspirational**: Aim high and describe a better future than the current state.
 - **Be Clear**: Use clear, jargon-free language that is easy to understand.
 - **Focus on Impact**: Highlight the positive impact on customers, society, or the industry.
 - **Reflect Core Values**: Ensure it aligns with your organization's core values and culture.
@@ -176,5 +176,5 @@ Establish the framework for implementation and ongoing review.
 ### Additional Points
 - [...]
 
-### One-Page Business Plan
-Decide on the best ideas (don't be afraid to mix and match). That the ideas and build a [Design Thinking](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/03_design_thinking_template.md)
+### Design Thinking Workshop
+Once you have your vision and strategy, unpack the product or business idea with [Design Thinking](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/03_design_thinking_template.md)
