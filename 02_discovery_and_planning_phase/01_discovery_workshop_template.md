@@ -61,7 +61,7 @@ A process defined from a combination of [UX Design](https://www.uxdesigninstitut
    - [ ] Discussion on aligning user needs with business goals
 
 #### 5. **Session 3: Design Thinking, Ideation and Prototyping**
-- Complete the following in the [Design Thinking Template](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/02_design_thinking_template.md)
+- Complete the following in the [Design Thinking Template](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/03_design_thinking_template.md)
    - [ ] Introduction to design thinking principles
    - [ ] Team breakout sessions for idea generation
       - [ ] User research and expectations
