@@ -137,7 +137,7 @@ Use the [Octalysis Tool](https://yukaichou.com/octalysis-tool/) to complete a mo
 
 | Discovery          | On-boarding               | Scaffolding                        | Endgame                           |
 |--------------------|---------------------------|------------------------------------|-----------------------------------|
-| **Elevator Pitch** | **Tutorial / First Goal** | **Relationship Model /Hook Model** | **System Goals & Responsibility** |
+| **[Elevator Pitch](#create-an-elevator-pitch)** | **Tutorial / First Goal** | **Relationship Model /Hook Model** | **System Goals & Responsibility** |
 | Elevator Pitch per user type, so that they know where to start and what they are going to get from it | Focus on smallest and shortest achievable goal | What is the basic loop / flow of a user. Know where to leverage feedback loops | What do I get for my investment into your product or service, others know you are powerful |
 
 
@@ -367,6 +367,7 @@ You need to be able to quickly and concisely tell people about your product/serv
 - You know how **[state the problem]**, we solve that by **[state your solution]**. We have done this before **[give examples]**
 - We help **[insert ideal client]** achieve **[insert what you help them do]** through **[insert methodology]**
 - We **[insert what you help them do]** by **[insert methodology]** for **[insert ideal client]**
+- My company doe **[insert what you do]** for people who want **[insert desire/problem you are solving]** without **[Share understanding of client current pain points/dislikes]**
 
 ### Hook Model
 How to Build Habit: [HOOKED by Nir Eyal | Core Message](https://www.youtube.com/watch?v=6Kz8NfntC6A)
