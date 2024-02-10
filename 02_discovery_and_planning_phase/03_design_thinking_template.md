@@ -367,7 +367,7 @@ You need to be able to quickly and concisely tell people about your product/serv
 - You know how **[state the problem]**, we solve that by **[state your solution]**. We have done this before **[give examples]**
 - We help **[insert ideal client]** achieve **[insert what you help them do]** through **[insert methodology]**
 - We **[insert what you help them do]** by **[insert methodology]** for **[insert ideal client]**
-- My company doe **[insert what you do]** for people who want **[insert desire/problem you are solving]** without **[Share understanding of client current pain points/dislikes]**
+- My company does **[insert what you do]** for people who want **[insert desire/problem you are solving]** without **[share understanding of client current pain points/dislikes]**
 
 ### Hook Model
 How to Build Habit: [HOOKED by Nir Eyal | Core Message](https://www.youtube.com/watch?v=6Kz8NfntC6A)
