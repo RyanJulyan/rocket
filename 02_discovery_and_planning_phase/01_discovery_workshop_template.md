@@ -48,19 +48,7 @@ A process defined from a combination of [UX Design](https://www.uxdesigninstitut
    - [ ] Specific Features/Functions
    - [ ] Success Criteria
 
-#### 4. **Session 2: User and Business Needs**
-- Complete the following in the [Design Document Template](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md)
-   - [ ] [Business Metrics](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#business-metrics):
-      - Detailed objectives with associated SMART metrics
-      - Methodology for measurement and tracking
-   - [ ] High-level [process flowchart](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#high-level-process-flowchart)
-      - Detailed logical view with diagrams
-      - Description of the 4+1 architectural view
-      - Narratives for each high-level process
-- Group activity to identify key business and user needs
-   - [ ] Discussion on aligning user needs with business goals
-
-#### 5. **Session 3: Design Thinking, Ideation and Prototyping**
+#### 3. **Session 2: Design Thinking, Ideation and Prototyping**
 - Complete the following in the [Design Thinking Template](https://github.com/RyanJulyan/rocket/blob/main/02_discovery_and_planning_phase/03_design_thinking_template.md)
    - [ ] Introduction to design thinking principles
    - [ ] Team breakout sessions for idea generation
@@ -83,7 +71,19 @@ A process defined from a combination of [UX Design](https://www.uxdesigninstitut
       - [ ] Group presentations and feedback on prototypes
       - [ ] [Feature prioritization](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#features-and-priorities)
 
-#### 6. **Session 4: Technical Considerations and Constraints**
+#### 4. **Session 3: User and Business Needs**
+- Complete the following in the [Design Document Template](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md)
+   - [ ] [Business Metrics](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#business-metrics):
+      - Detailed objectives with associated SMART metrics
+      - Methodology for measurement and tracking
+   - [ ] High-level [process flowchart](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/01_design_document_template.md#high-level-process-flowchart)
+      - Detailed logical view with diagrams
+      - Description of the 4+1 architectural view
+      - Narratives for each high-level process
+- Group activity to identify key business and user needs
+   - [ ] Discussion on aligning user needs with business goals
+
+#### 5. **Session 4: Technical Considerations and Constraints**
 - Complete the following in the [Technical and Data Specifications Template](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/02_technical_and_data_specifications_template.md)
    - [ ] Discuss key technical considerations: 
       - Hardware limitations
@@ -93,27 +93,27 @@ A process defined from a combination of [UX Design](https://www.uxdesigninstitut
    - Group discussion on the technical feasibility of concepts
    - Identifying potential technical risks and mitigation strategies
 
-#### 7. **Session 5: Data Considerations and Strategy**
+#### 6. **Session 5: Data Considerations and Strategy**
 - Discuss data governance, privacy, and compliance (e.g., GDPR, CCPA)
 - Exploration of data collection, storage, and usage requirements
 - Strategies for data integration, quality assurance, and scalability
 
-#### 8. **Session 6: API Design and Integration**
+#### 7. **Session 6: API Design and Integration**
 - Overview of API development strategies and best practices
 - Discussion on API integration with external/internal systems
 - Considerations for API security, scalability, and documentation
 
-#### 9. **Session 7: Roadmap and Prioritization**
+#### 8. **Session 7: Roadmap and Prioritization**
 - Presentation on project management frameworks
 - Interactive session on prioritizing features and deliverables, considering user/business needs, technical constraints, data, and API aspects
 - Creation of a preliminary roadmap integrating all discussed elements
 
-#### 10. **Session 8: Scalability and Future Proofing**
+#### 9. **Session 8: Scalability and Future Proofing**
 - Discussion on project scalability, including data and API growth strategies
 - Strategies for long-term support, maintenance, and continuous improvement
 - Considerations for cross-platform compatibility and mobile optimization
 
-#### 11. **Closing Remarks and Next Steps**
+#### 10. **Closing Remarks and Next Steps**
 - Summary of the workshops findings, decisions, and identified considerations across all areas
 - Outline of next steps, responsibilities, and business and technical follow-ups
 - Feedback collection on the workshop, with an emphasis on the comprehensive approach
