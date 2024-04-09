@@ -3,7 +3,7 @@
 ## {{project_name}}:
 
 ## What is Design Thinking?
-Design Thinking is a set of principles that helps you go from an idea right the way through to a testable prototype, with the user's needs at the center of every decision. By the end, you’ll have a working prototype that you can test on your phone or in a browser.
+Design Thinking is a set of principles that helps you go from an idea to a testable prototype, with the user's needs at the center of every decision. By the end, you’ll have a working prototype to test on your phone or in a browser.
 
 > _“User-centered design means understanding what your users need, how they think, and how they behave – and incorporating that understanding into every aspect of your process."_ Jesse James Garrett — User Experience Designer
 
@@ -11,9 +11,9 @@ by: **Understanding > Exploring > Materialising**
 
 ## Workshop Agenda
 1. **[Empathise](#empathise-with-people):** Aim to use 10% of your session time
-    - **Empathise with people:** Know the people you're designing for, so you understand their needs better.
+    - **Empathise with people:** Know the people you're designing for so you understand their needs better.
 1. **[Define](#define-a-challenge):** Aim to use 10% of your session time
-    - **Define a challenge:** Decide on who you want to design for and what you want to help them do.
+    - **Define a challenge:** Decide who you want to design for and what you want to help them do.
 1. **[Ideate](#ideate-possibilities):** Aim to use 10% of your session time
     - **Ideate possibilities:** Come up with different solutions that might be useful to people - remember there are no bad ideas
 1. **[Prototype](#prototype-your-design):** Aim to use 50% of your session time
@@ -21,12 +21,12 @@ by: **Understanding > Exploring > Materialising**
 1. **[Test](#test-your-design):** Aim to use 20% of your session time
     - **Test your design:** Take your prototypes to your audience and get feedback.
 1. **Present:** It’s now time to share your project!
-    - **Discuss and Get Feedback:** Think about pro's and con's of each teams feedback
+    - **Discuss and Get Feedback:** Think about pro's and cons of each team's feedback
 1. **Implement:** Define the next steps!
-    - **In Depth Project Plan:** Take your prototypes and feedback to the next level. Build something "Real"
+    - **In-Depth Project Plan:** Take your prototypes and feedback to the next level. Build something "Real"
 
 ## Empathise with people
-Know the people you are designing for, so you can understand their needs better. Develop empathy towards your potential end-user and will be the guiding light when you move toward brainstorming solutions. Empathy is at the heart of great design. Without it, the solutions you create can never truly solve the problems of your users.
+Know the people you are designing for so you can understand their needs better. Develop empathy towards your potential end-user and will be the guiding light when you move toward brainstorming solutions. Empathy is at the heart of great design. Without it, the solutions you create can never truly solve your users' problems.
 
 ### Define the user you are designing for
 The purpose of this profile is to frame all of your ideas and solutions around the individual that is most likely to use it.
@@ -274,6 +274,28 @@ _Test iteration one features against your Persona to validate this question_
 ### Evaluate each of your top 3 ideas; opportunity factors
 #### Idea: {idea_name}
 
+##### 1. Market Strategy:
+- [ ] Ideal Customer Profile
+    - [ ] Niche: [...]
+- [ ] Macro Trend / Big Change
+    - [ ] Market Size: [...]
+- [ ] Problem -> Solution
+    - [ ] Market Segment: [...]
+    - [ ] Why are you/Your company best suited to solve this pproblem: [...]
+
+##### 2. Product Strategy:
+- [ ] Problem -> Ah-Ha Solution -> Result
+    - [ ]  Core Problem: [...]
+    - [ ]  Can a single customer get into the product and get immediate value without dependencies: [ ] Yes / [ ] No
+    - [ ]  What is the core atomic unit for your product: [...]
+
+##### 3. Go to Market Strategy:
+- [ ] Your one unstoppable funnel: [...]
+    - [ ] Are you Marketing Driven or Sales Driven: [ ] Marketing / [ ] Sales
+    - [ ] What is your pricing strategy: [...]
+    - [ ] What is your most important and simple growth engine: [...]
+        - [ ] What is your average movement of this growth engine: [...]
+
 #### Is this an established market?
 Only address these questions and details if you are going into an established market (limited growth potential)
 | **Question**                                                                                 | **Answer**       |
@@ -360,10 +382,10 @@ Only address these questions and details if you are going into an established ma
 
 
 ## Prototype your design
-Turn ideas into realistic mockups that you can test. Bring your ideas to life and create interactive prototypes, for mobile or web, using Rapid prototyping. The best way to test ideas with users and start a conversation is to show them how the solution works. 
+Turn ideas into realistic mockups that you can test. Use rapid prototyping to bring your ideas to life and create interactive prototypes for mobile or web. The best way to test ideas with users and start a conversation is to show them how the solution works. 
 
 ### Create an elevator pitch:
-You need to be able to quickly and concisely tell people about your product/service. There are some simple _“formulas”_ that will assist you in writing an elevator pitch if you are asked what you do or what your business is; having a quick a one-sentence answer is a great way to respond:
+You must be able to tell people about your product/service quickly and concisely. There are some simple _“formulas”_ that will assist you in writing an elevator pitch if you are asked what you do or what your business is; having a quick a one-sentence answer is a great way to respond:
 - You know how **[state the problem]**, we solve that by **[state your solution]**. We have done this before **[give examples]**
 - We help **[insert ideal client]** achieve **[insert what you help them do]** through **[insert methodology]**
 - We **[insert what you help them do]** by **[insert methodology]** for **[insert ideal client]**
