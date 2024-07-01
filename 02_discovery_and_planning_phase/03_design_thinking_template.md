@@ -108,26 +108,26 @@ The purpose of this profile is to frame all of your ideas and solutions around t
 | 23:30:00 |             |        |         |           |          |        |          |        |
 
 
-### Understand The Users Motivation
+### Understand The User's Motivation
 #### The Challenges with Function-Focused Design
 Most systems are “function-focused,” designed to get the job done quickly. This is like a factory that assumes its workers will do their jobs because they are required to. However, Human-Focused Design remembers that people in a system have feelings, insecurities, and reasons why they want or do not want to do certain things, and therefore optimizes their feelings, motivations, and engagement.
 
-Framework called Octalysis, designed as an octagon shape with 8 Core Drives representing each side.
+A Framework called [Octalysis](https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/), designed as an octagon shape with 8 Core Drives representing each side.
 
-| Applicable | Core Drive                           | Brief Explanation                                                                                |
-|------------|--------------------------------------|--------------------------------------------------------------------------------------------------|
-| [ ]        | Epic Meaning & Calling               | Doing something greater than oneself / was “chosen” to do something.                             |
-| [ ]        | Development & Accomplishment         | Internal drive of making progress, developing skills, and eventually overcoming challenges       |
-| [ ]        | Empowerment of Creativity & Feedback | Creative process where they have to repeatedly figure things out and try different combinations. |
-| [ ]        | Ownership & Possession               | Feel like they own something. wants to make better and own even more.                            |
-| [ ]        | Social Influence & Relatedness / Social Pressure & Envy | Social elements that drive people, including: mentorship, acceptance, social responses, companionship, as well as competition and envy. |
-| [ ]        | Scarcity & Impatience                | Wanting something because you can’t have it.                                                     |
-| [ ]        | Unpredictability & Curiosity         | Wanting to find out what will happen next. If you don’t know what’s going to happen, your brain is engaged and you think about it often. |
-| [ ]        | Loss & Avoidance                     | The avoidance of something negative happening                                                    |
+| Applicable | Core Drive                                              | Brief Explanation                                                                                                                        |
+|------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| [ ]        | Epic Meaning & Calling                                  | Doing something greater than oneself / was “chosen” to do something.                                                                     |
+| [ ]        | Development & Accomplishment                            | Internal drive of making progress, developing skills, and eventually overcoming challenges                                               |
+| [ ]        | Empowerment of Creativity & Feedback                    | Creative process where they have to repeatedly figure things out and try different combinations.                                         |
+| [ ]        | Ownership & Possession                                  | Feel like they own something. wants to make better and own even more.                                                                    |
+| [ ]        | Social Influence & Relatedness / Social Pressure & Envy | Social elements that drive people, including: mentorship, acceptance, social responses, companionship, as well as competition and envy.  |
+| [ ]        | Scarcity & Impatience                                   | Wanting something because you can’t have it.                                                                                             |
+| [ ]        | Unpredictability & Curiosity                            | Wanting to find out what will happen next. If you don’t know what’s going to happen, your brain is engaged and you think about it often. |
+| [ ]        | Loss & Avoidance                                        | The avoidance of something negative happening                                                                                            |
 
 Use the [Octalysis Tool](https://yukaichou.com/octalysis-tool/) to complete a more visually apealing motivational profile. You can `Export All` and reference this later.
 
-### Understand The users Experience Level
+### Understand The user's Experience Level
 | Current Phase | Experience Phase | Brief Explanation                                                                |
 |---------------|------------------|----------------------------------------------------------------------------------|
 | [ ]           | Discovery Phase  | Why would people even want to start the journey / using your product or service. |
@@ -135,11 +135,26 @@ Use the [Octalysis Tool](https://yukaichou.com/octalysis-tool/) to complete a mo
 | [ ]           | Scaffolding      | The regular journey of repeated actions towards a goal.                          |
 | [ ]           | Endgame          | How do you retain your veterans.                                                 |
 
-| Discovery          | On-boarding               | Scaffolding                        | Endgame                           |
-|--------------------|---------------------------|------------------------------------|-----------------------------------|
+| Discovery                                       | On-boarding               | Scaffolding                        | Endgame                           |
+|-------------------------------------------------|---------------------------|------------------------------------|-----------------------------------|
 | **[Elevator Pitch](#create-an-elevator-pitch)** | **Tutorial / First Goal** | **Relationship Model /Hook Model** | **System Goals & Responsibility** |
 | Elevator Pitch per user type, so that they know where to start and what they are going to get from it | Focus on smallest and shortest achievable goal | What is the basic loop / flow of a user. Know where to leverage feedback loops | What do I get for my investment into your product or service, others know you are powerful |
 
+### Understand The User's Needs and Wants
+#### The Challenges with Commodity-Focused Design
+Most systems are "commodity-focused," designed to fulfill basic requirements efficiently. This approach is like a marketplace that assumes its customers will buy what they need without considering their deeper motivations. However, human-centric design recognizes that people have complex desires, emotions, and reasons that influence their actions, and therefore optimizes their holistic needs, motivations, and engagement.
+
+The framework identifies 7 Core Commodities from the [Lean Marketing book](https://www.amazon.com/Lean-Marketing-Less-More-Business/dp/1774583941) that represent fundamental human desires and needs:
+
+| Applicable | Core Drive                                             | Brief Explanation                                                                                                                                              |
+|------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [ ]        | Money (Exchange) or Wealth (Wants)                     | Help Make or Save Money; Help Protect or Increase Wealth.                                                                                                      |
+| [ ]        | Time (Non-renewable) or Convenience                    | Help Save Time or Energy; Help Make it Easier.                                                                                                                 |
+| [ ]        | Sex or Mating                                          | Deep Biological and Psychological Rooting.                                                                                                                     |
+| [ ]        | Status, Fame or Approval	                              | Status is Contextual, Signaling.                                                                                                                               |
+| [ ]        | Safety, Peace of Mind, Basic Needs, and Pain Avoidance | Provide Peace of Mind or Reduce Risk; Physical, Mental/Psychological, and Emotional; Survival.                                                                 |
+| [ ]        | Leisure, Entertainment, and Play                       | Help Recover, Relax, or Escape; Contribution to Cognitive, Social, Emotional, and Physical Development; Help with Connection and Shared Experiences and Values |
+| [ ]        |Freedom and Independence                                | Make Own Decisions; Options Can Increase Positive Feelings About Decisions                                                                                     |
 
 ## Define a challenge
 The big, meaty problem you want to solve for your business, customer and end-user. Using what you learned in the last stage, it's time to discover a pain point to form a clear challenge that you can tackle.
