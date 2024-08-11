@@ -604,8 +604,8 @@ Your storyline becomes the **“why”** for the team and client
 | Stuff  | Expensive / Hard              | Things you get - Can be Digital                                      |
 
 #### Rewards That Specific User Motivation Respond Well To
-| Reward Type | Core Drive Link |
-|-------------|-----------------|
+| Mechanism Reward Type | Core Drive Link |
+|-----------------------|-----------------|
 | Fixed Action Rewards (Earned Lunch) | - Development & Accomplishment,<br/>- Ownership & Possession,<br/>- Scarcity & Impatience,<br/>- Empowerment of Creativity & Feedback |
 | Random Rewards (Mystery Box) | - Unpredictability & Curiosity |
 | Sudden Rewards (Easter Eggs) | - Unpredictability & Curiosity,<br/>- Epic Meaning & Calling,<br/>- Ownership & Possession,<br/>- Empowerment of Creativity& Feedback ,<br/>- Social Influence & Relatedness |
