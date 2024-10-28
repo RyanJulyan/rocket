@@ -5,7 +5,7 @@
 ## [Snyk](https://docs.snyk.io/scan-using-snyk/supported-languages-and-frameworks/python)
 - Prerequisites
     1. Create a Snyk account.
-    1. Install Snyk CLI and authenticate your machine.
+    1. Install [Snyk CLI](https://docs.snyk.io/snyk-cli/install-or-update-the-snyk-cli) and authenticate your machine.
     1. Set the default Organization for all Snyk tests (code analysis).
     1. Ensure you have installed the relevant package manager before you begin using the Snyk CLI (open source).
     1. Ensure you have included the relevant manifest files supported by Snyk before testing.
