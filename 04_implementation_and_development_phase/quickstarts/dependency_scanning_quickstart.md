@@ -19,15 +19,21 @@ snyk test --all-projects
 ```bash
 pip install safety
 ```
+
 ```bash
 safety check
 ```
+
 - To scan a requirements file:
 ```bash
 safety check -r requirements.txt
 ```
 
 ## [Bandit](https://pypi.org/project/bandit/)
+```bash
+pip install bandit[toml]
+```
+
 ```bash
 bandit -r path/to/your/code/
 ```
