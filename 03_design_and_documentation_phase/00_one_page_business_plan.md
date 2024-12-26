@@ -9,6 +9,7 @@ Most business plans are overstated and overly complicated. There are, however, a
 - Running operations and day-to-day tasks.
 - Clearly define administrative functions.
 - Understand the financials (cost, price, profit).
+    - Figuring out the offer (what you actually package and offer to a client) can be confusing, consider reviewing Alex Hormozi's approach to [_Creating Grand Slam Offers_](https://github.com/RyanJulyan/rocket/blob/main/03_design_and_documentation_phase/quickstarts/offer_creation.md#offer-creation)
 
 
 ## Summary One-page Business Plan:
