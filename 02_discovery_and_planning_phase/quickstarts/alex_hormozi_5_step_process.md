@@ -32,16 +32,17 @@ For a more in depth approach to crafting your offer, consider reviewing Alex Hor
 
 | Attribute              | Answer |
 | ---------------------- | ------ |
-| Age                    |        |
-| Gender                 |        |
+| Life Stage / Context   |        |
+| Values / Priorities    |        |
 | Profession / Situation |        |
 | Problem                |        |
+| Motivations / Goals    |        |
 | Interests              |        |
 
 ### Write these attributes into a coherent sentence:
 
 \
-\_\_***{age}***\_\_ \_\_***{gender}***\_\_ who are \_\_***{Profession/Situation}***\_\_, facing challenges with \_\_***{Problem}***\_\_ and enjoy \_\_***{Interests}***\_\_ 
+\_\_***{Life Stage / Context}***\_\_ who values \_\_***{Values / Priorities}***\_\_ who are \_\_***{Profession/Situation}***\_\_, facing challenges with \_\_***{Problem}***\_\_. They are driven by \_\_***{Motivations / Goals}***\_\_ and enjoy \_\_***{Interests}***\_\_ 
 
 
 | Ideal Customer Profile (IDP): | ____ |
