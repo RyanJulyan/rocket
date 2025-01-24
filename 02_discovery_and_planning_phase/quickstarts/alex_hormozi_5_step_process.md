@@ -28,7 +28,7 @@ For a more in depth approach to crafting your offer, consider reviewing Alex Hor
 | -------------------------------------- | ----------- |
 | Like You / Helped Before / Underserved |             |
 
-### Beyond Who: Create an Ideal Customer Profile (IDP)
+### Beyond Who: Create an Ideal Customer Profile (ICP)
 
 | Attribute              | Answer |
 | ---------------------- | ------ |
@@ -45,7 +45,7 @@ For a more in depth approach to crafting your offer, consider reviewing Alex Hor
 \_\_***{Life Stage / Context}***\_\_ who values \_\_***{Values / Priorities}***\_\_ who are \_\_***{Profession/Situation}***\_\_, facing challenges with \_\_***{Problem}***\_\_. They are driven by \_\_***{Motivations / Goals}***\_\_ and enjoy \_\_***{Interests}***\_\_ 
 
 
-| Ideal Customer Profile (IDP): | ____ |
+| Ideal Customer Profile (ICP): | ____ |
 | ----------------------------- | ---- |
 
 ## Step 3: How will you highlight the benifits
@@ -81,7 +81,7 @@ For a more in depth approach to crafting your offer, consider reviewing Alex Hor
 ## Step 5: Combine into Elevator Pitch
 
 ### Use the formula below to create your pitch:
-I/We help ***\_\_WHO (IDP)***\_\_, Get ***\_\_Pt 1. HOW (positives)***\_\_, Without ***\_\_Pt 2. HOW (negatives)***\_\_, Through \_\_***Bonuses (Unique Mechanism)***\_\_.
+I/We help ***\_\_WHO (ICP)***\_\_, Get ***\_\_Pt 1. HOW (positives)***\_\_, Without ***\_\_Pt 2. HOW (negatives)***\_\_, Through \_\_***Bonuses (Unique Mechanism)***\_\_.
 
 | Elevator Pitch | I/We help ___  |
 | -------------- | ----------- |
