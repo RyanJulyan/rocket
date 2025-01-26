@@ -85,7 +85,7 @@ Want higher Click Through Rates (CTR), Higher Conversion Rates, Higher Average T
 ### 3. *Value equation:*
 - Never charge more than it is worth, always charge more than it cost to produce
 - Figure out what clients actually value most. then tripling down on that thing they value, and eliminating everything else.
-- **Formula:** `(Dream Outcome) * (Perceived Likelihood of Achievement) / (Time Delay) * (Effort & Sacrifice) = Value`
+- **Formula:** `((Dream Outcome) * (Perceived Likelihood of Achievement)) / ((Time Delay) * (Effort & Sacrifice)) = Value`
     - Focus on getting the bottom to 0
 - 
 | Client Value     | Formula Area                           | Focus                                                                                    |
