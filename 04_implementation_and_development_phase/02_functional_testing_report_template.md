@@ -213,17 +213,29 @@ This report is intended for a broad range of stakeholders, including the develop
                 - Always use type hints for function arguments and return types at the top level
                 - use the standary `typing` library for type hints
         - [ ] **Dynamic Application Security Testing (DAST):** Conducting tests on running applications to identify real-time security issues.
-            > **_Remember, any penetration testing tool like `Burp Suite` and `OWASP ZAP` are powerful and should be used responsibly and legally. Always have explicit and documented permission to test a website before using a tool like ZAP for security testing._**
+            > **_Remember, any penetration testing tools like `Metasploit `, `Burp Suite` and `OWASP ZAP` are powerful and should be used responsibly and legally. Always have explicit and documented permission to test a website before using a tool like ZAP for security testing._**
+            - [ ] [Metasploit Framework](https://www.metasploit.com/) is the industry-standard platform for developing, testing, and executing exploits. It bundles thousands of ready-made modules and an interactive console, making it a staple for penetration testers, red teams, and security researchers.
+                - **Key Capabilities of Metasploit Framework:**
+                    - **Exploit Modules:** Thousands of exploits for OS, network, and application weaknesses—with automatic payload selection.
+                    - **Payload & Encoder Library:** Generate and obfuscate shellcode (e.g., `msfvenom`) for Windows, Linux, macOS, Android, and more.
+                    - **Meterpreter Shell:** In-memory post-exploitation environment offering file system, privilege escalation, pivoting, and more.
+                    - **Auxiliary & Scanner Modules:** Port scans, service enumeration, brute-force logins, fuzzing, and DoS testing.
+                    - **Post-Exploitation Modules:** Gather credentials, dump hashes, capture screenshots, pivot to new subnets, and maintain persistence.
+                    - **Evasion & Anti-Forensics:** Built-in encoders, packers, and the ability to stage payloads in memory to bypass basic AV/EDR.
+                    - **Database & Workspaces:** Store hosts, services, and loot; track findings across engagements with `msfdb`.
+                    - **Automation & APIs:** Scriptable via `msfconsole`, RPC/REST interfaces, and integration with tools like Nmap, Nessus, and Armitage.
+                    - **Community & Modularity:** Active open-source ecosystem—easy to write custom modules and share them on GitHub.
+                - **Quickstart:** [Metasploit Quickstart](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/quickstarts/metasploit_quickstart.md)
             - [ ] [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) is a widely used tool for web security testing. It's popular among penetration testers and ethical hackers for its rich feature set and user-friendly interface.
-            - **Key Capabilities of Burp Suite Community Edition:**
-                - **Proxy Tool:** Allows interception, inspection, and modification of raw traffic passing between your browser and the web server.
-                - **Scanner:** Automated scanner (limited in the Community Edition) to identify vulnerabilities in web applications.
-                - **Intruder:** A powerful tool for carrying out customized attacks to find and exploit unusual vulnerabilities.
-                - **Repeater:** Modify and resend individual requests, and analyze the responses.
-                - **Sequencer:** Analyzes the quality of randomness in an application’s session tokens.
-                - **Comparer:** Compares application data like request/response pairs, highlighting the differences.
-                - **Extensibility:** Ability to extend functionality using the Burp Extender.
-            - **Quickstart:** [Burp Suite Quickstart](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/quickstarts/burp_suite_quickstart.md)
+                - **Key Capabilities of Burp Suite Community Edition:**
+                    - **Proxy Tool:** Allows interception, inspection, and modification of raw traffic passing between your browser and the web server.
+                    - **Scanner:** Automated scanner (limited in the Community Edition) to identify vulnerabilities in web applications.
+                    - **Intruder:** A powerful tool for carrying out customized attacks to find and exploit unusual vulnerabilities.
+                    - **Repeater:** Modify and resend individual requests, and analyze the responses.
+                    - **Sequencer:** Analyzes the quality of randomness in an application’s session tokens.
+                    - **Comparer:** Compares application data like request/response pairs, highlighting the differences.
+                    - **Extensibility:** Ability to extend functionality using the Burp Extender.
+                - **Quickstart:** [Burp Suite Quickstart](https://github.com/RyanJulyan/rocket/blob/main/04_implementation_and_development_phase/quickstarts/burp_suite_quickstart.md)
             - [ ] [OWASP ZAP](https://www.zaproxy.org/download/) is a powerful penetration testing tool for finding vulnerabilities in web applications. It is designed to be used by both those new to application security as well as professional penetration testers.
                 - **Key Capabilities of OWASP ZAP:**
                     - **Automated Scanner:** Scans for vulnerabilities in web applications.
