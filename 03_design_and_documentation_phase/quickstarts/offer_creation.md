@@ -88,6 +88,7 @@ Want higher Click Through Rates (CTR), Higher Conversion Rates, Higher Average T
 - **Formula:** $\frac{(\text{Dream Outcome}) \times (\text{Perceived Likelihood of Achievement})} {(\text{Time Delay}) \times (\text{Effort and Sacrifice})} = \text{Value}$
 
     - Focus on getting the bottom to 0
+
 | Client Value     | Formula Area                           | Focus                                                                                    |
 |------------------|----------------------------------------|------------------------------------------------------------------------------------------|
 | Increase Value   | Dream Outcome                          | Is the End Result Meaningful Enough?                                                     |
