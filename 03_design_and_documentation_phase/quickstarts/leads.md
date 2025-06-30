@@ -2,13 +2,14 @@
 > Adapted from Alex Hormozi: [LEADS COURSE](https://www.acquisition.com/training/leads)
 
 
-## Why Lead Magnets
+## Lead Magnets
+### Why Lead Magnets
 A complete solution to a narrow problem given away at a significant discount (or free) to attract ideal customers
 - Builds trust on you/your deliver and follow through
 - Should lead to the "next problem" which your "Core offer" should then solve/address as described in the [What and Who](#what-and-who)
 - Becuase they now trust you, they are more likely to buy from you
 
-### A Great Lead Magnet:
+#### A Great Lead Magnet:
 - Engages Ideal Customer When they See it
 - Gets more users to engage than your core offer alone (for the same effort, more people are likely to buy)
 - A complete solution to a narrow problem (e.g. Step 1 of X)
@@ -16,7 +17,7 @@ A complete solution to a narrow problem given away at a significant discount (or
 - Over Deliver on the promise of the Lead Magnet
 - Makes the Right people more likely to buy
 
-## What and Who
+### What and Who
 > Problem - Solution cycle
 All problems when solved create new problem
 
@@ -28,7 +29,7 @@ All problems when solved create new problem
 3. Although this helps it makes the other problem more obvious
 
 
-## How to Solve the Lead Magnet
+### How to Solve the Lead Magnet
 3 General Types of Lead Magnets:
 1. Reveal the Problem
     - Assessment
@@ -66,7 +67,7 @@ All problems when solved create new problem
 Think about what is most likely to make a person take the next step, opening the packet of food (free step 1), or telling someone they are hungry (Reveal the Problem) will not make them want to buy, where buying is the next step. Tasting is more likely to make them want to buy then the other two.
 
 
-## How to Deliver the Lead Magnet
+### How to Deliver the Lead Magnet
 Try keep this as close to the core offer as possible, do not create a disconnect. and link to [How to Solve the Lead Magnet](#how-to-solve-the-lead-magnet)
 
 4 General Approches to Deliver the Lead Magnets:
@@ -99,7 +100,7 @@ Try keep this as close to the core offer as possible, do not create a disconnect
     - Give something that can hold in hands
 
 
-## Name the lead magnet
+### Name the lead magnet
 Frame/position in which they engage first and therefore the framing in which they will consume the information
 The headline/title is 80% of the consumption from a user, and will determine if the next step is taken, `headline=name`
 
@@ -113,7 +114,7 @@ Consider A/B testing the performance. Make small changes to the headline to test
 - Ask on multiple platforms?
 
 
-## Make it Easy
+### Make it Easy
 People do things in the easiest, and most convenient way for them to consume. So give them options that work for them. e.g. Kindle, vs Book, vs Audio book, formats / devices (android, web, ios, app)
 
 - **Software:** Accessible on Phone, Computer, Multiple Formats 
@@ -122,7 +123,7 @@ People do things in the easiest, and most convenient way for them to consume. So
 - **Physical Products:** Simple to get, open, use/consume (try make it memorable)
 
 
-## Make it Good
+### Make it Good
 No/Zero Fluff!
 
 - Give away secrets, sell implementation.
@@ -132,8 +133,8 @@ No/Zero Fluff!
 - Sucky fluff discourages people who would've bought not to.
 - People buy based on expectation of future value. Easiest way to get them to think they'll get value after they buy is...provide value before they buy. 
 
-## Create next steps
-CALL TO ACTION! Engage Your Leads: Make it Easy To Ask For More
+### Create next steps
+**CALL TO ACTION!** Engage Your Leads: Make it Easy To Ask For More
 
 > This is Critical and should be carefully constructed, NOT an afterthought
 
@@ -147,6 +148,58 @@ CALL TO ACTION! Engage Your Leads: Make it Easy To Ask For More
     - Scarcity -> Urgency -> Reason Why (have a reason it is more compelling)
 
 
+## Core 4 (Value Equation of Leads)
+|                                                                     | Warm (People who know you)[Gave permission for YOU to contact them] | Cold (People who don't know you)[Did not give permission for YOU to contact them] |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| One-to-One (Private, Outbound) [Phone, Email, Text, Direct Message] | Warm Outreach     | Cold Outreach |
+| One-to-Many (Public, Inbound) [Billboard, Podcast, Post, Article]   | Post Free Content | Run Paid Ads  |
 
+**Note:** Inbound they reach out to you, Outbound you reach out to them
+
+### Warm Outreach
+#### How it works
+You -> Contact[Email, Phone call, Direct Message, Text, Voicemail] -> Person who knows you
+
+Allows you to find customers:
+- Cheaply
+- Reliably
+
+#### How to do it, without being "icky"
+##### Get a list
+1. Export contacts
+    - Contacts
+    - Social Media
+    - Email
+1. Put names and contacts on a list
+1. Count the leads (see you have them)
+
+##### Pick a platform
+Where are people paying attention, advertise there. e.g.:
+- Linkedin
+- YouTube
+- Twitter (X)
+
+##### Personalize
+1. Look to see what is happening in that persons life
+    - Helps you act like a human
+1. "I see you had a baby"
+1. People love to talk about themselves
+
+##### Reach out
+1. Spend 4 hours a day (or until you reach 100) contacting people every day.
+
+##### Acknowledge - Complement - Ask Next Question (A-C-A)
+
+
+### Post Content
+### Monetize Content
+### Cold Outreach
+### Make Ads
+### Monetize Ads
+### More, Better, New
+
+
+## 
+### 
     
 
