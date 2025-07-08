@@ -204,30 +204,30 @@ The 4+1 Architectural View Model is a framework for describing the architecture 
 ### Feature Detail Requirements:
 > Feature Detail Requirements describe each feature or capability a software program, product, or system should have. These requirements clarify each feature's purpose, behaviour, and interactions.
 
-| Action                    | Details                                                                                       |
-|---------------------------|-----------------------------------------------------------------------------------------------|
-| Feature No#:              | ...                                                                                           |
-| Feature Group:            | ...                                                                                           |
-| Feature Name:             | ...                                                                                           |
-| User Story:               | As [persona/user_type], I want [what?/goal?] so that [why?/because?].                         |
-| Process Flow Step:        | ...                                                                                           |
-| Deadline:                 | ...                                                                                           |	
-| Feature Difficulty:       | ...                                                                                           |
-| Feature Priority:         | ...                                                                                           |	
-| Feature Description:      | ...                                                                                           |
-| Dependencies:             | - Data [ ]<br/> - Features [ ]<br/> - Systems [ ]<br/> - Infrastructure [ ]<br/> - People [ ] |
-| Constraints:	             | - Data [ ]<br/> - Systems [ ]<br/> - Infrastructure [ ]<br/> - People [ ]                     |
-| Inputs:	                | ...                                                                                           |
-| Process/User Steps:       | ...                                                                                           |
-| Output:                   | ...                                                                                           |
-| Exposure Point:           | ...                                                                                           |
-| Error Handling:           | ...                                                                                           |
-| Permissions/Roles/Right:  | ...                                                                                           |
-| Performance Expectations: | ...                                                                                           |
-| Documentation Required:   | - User Docs [ ]<br/> - Technical Docs [ ]<br/> - Infrastructure Docs [ ]                      |
-| Acceptance Criteria:      | ...                                                                                           |
-| Can this be simplified?   | ___ (Yes/No), <br/> How if yes:___________________________________________                    |
-| Need more information?    | ___ (Yes/No), <br/> What if yes:__________________________________________                    |
+| Action                    | Details                                                                                                |
+|---------------------------|--------------------------------------------------------------------------------------------------------|
+| Feature No#:              | ...                                                                                                    |
+| Feature Group:            | ...                                                                                                    |
+| Feature Name:             | ...                                                                                                    |
+| User Story:               | As [persona/user_type], I want [what?/goal?] so that [why?/because?].                                  |
+| Process Flow Step:        | ...                                                                                                    |
+| Deadline:                 | ...                                                                                                    |	
+| Feature Difficulty:       | ...                                                                                                    |
+| Feature Priority:         | ...                                                                                                    |	
+| Feature Description:      | ...                                                                                                    |
+| Dependencies:             | - [ ]Data__<br/> - [ ] Features__<br/> - [ ] Systems__<br/> - [ ] Infrastructure__<br/> - [ ] People__ |
+| Constraints:	             | - [ ] Data__<br/> - [ ] Systems__<br/> - [ ] Infrastructure__<br/> - [ ] People__                      |
+| Inputs:	                | ...                                                                                                    |
+| Process/User Steps:       | ...                                                                                                    |
+| Output:                   | ...                                                                                                    |
+| Exposure Point:           | ...                                                                                                    |
+| Error Handling:           | ...                                                                                                    |
+| Permissions/Roles/Right:  | ...                                                                                                    |
+| Performance Expectations: | ...                                                                                                    |
+| Documentation Required:   | - [ ] User Docs__<br/> - [ ] Technical Docs__<br/> - [ ] Infrastructure Docs__                         |
+| Acceptance Criteria:      | ...                                                                                                    |
+| Can this be simplified?   | ___ (Yes/No), <br/> How if yes:___________________________________________                             |
+| Need more information?    | ___ (Yes/No), <br/> What if yes:__________________________________________                             |
 
 ### Data Specification Detailing Overview:
 - Objective: [Outline the goals for detailing the data specifications at this project stage.]  
