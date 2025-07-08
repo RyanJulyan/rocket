@@ -224,6 +224,7 @@ The 4+1 Architectural View Model is a framework for describing the architecture 
 | Error Handling:           | ...                                                                                           |
 | Permissions/Roles/Right:  | ...                                                                                           |
 | Performance Expectations: | ...                                                                                           |
+| Documentation Required:   | - User Docs [ ]<br/> - Technical Docs [ ]<br/> - Infrastructure Docs [ ]                      |
 | Acceptance Criteria:      | ...                                                                                           |
 | Can this be simplified?   | ___ (Yes/No), <br/> How if yes:___________________________________________                    |
 | Need more information?    | ___ (Yes/No), <br/> What if yes:__________________________________________                    |
